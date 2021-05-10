@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "AVA Flight Controller "
+Date "2021-05-10"
+Rev "2"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -567,7 +567,7 @@ F 3 "" H 10500 1600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L teensy:Teensy4.1 U2
+L ava_r2_bottom-rescue:Teensy4.1-teensy U2
 U 1 1 60990CDB
 P 9250 4100
 F 0 "U2" H 10050 6600 50  0000 C CNN
@@ -815,8 +815,6 @@ Wire Wire Line
 	10350 2250 10450 2250
 Wire Wire Line
 	6100 4350 6200 4350
-Text Notes 7350 7500 0    71   ~ 0
-AVA Revision 2 Bottom PCB\n
 $Comp
 L Connector:Conn_01x01_Male J4
 U 1 1 60B82564

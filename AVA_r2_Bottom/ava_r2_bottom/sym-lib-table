@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ava_r2_bottom-rescue)(type Legacy)(uri ${KIPRJMOD}/ava_r2_bottom-rescue.lib)(options "")(descr ""))
+)
