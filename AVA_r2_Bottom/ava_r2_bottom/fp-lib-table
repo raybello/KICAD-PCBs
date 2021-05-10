@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ava_r2_bottom)(type KiCad)(uri C:/Users/raymo/Downloads/teensy.pretty/ava_r2_bottom.pretty)(options "")(descr ""))
+  (lib (name TEENSY41)(type KiCad)(uri ${KIPRJMOD}/TEENSY41.pretty)(options "")(descr ""))
+)
