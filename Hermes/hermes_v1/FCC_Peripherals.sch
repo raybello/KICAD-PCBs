@@ -705,9 +705,11 @@ F 3 "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%20
 	-1   0    0    -1  
 $EndComp
 $Comp
-L CH330:Connector_USB_B_Micro J8
+L hermes_v1-rescue:Connector_USB_B_Micro-CH330 J8
 U 1 1 6103FAC5
 P 1400 6650
+AR Path="/6103FAC5" Ref="J8"  Part="1" 
+AR Path="/61068FAA/6103FAC5" Ref="J8"  Part="1" 
 F 0 "J8" H 1457 7117 50  0000 C CNN
 F 1 "Connector_USB_B_Micro" H 1457 7026 50  0000 C CNN
 F 2 "Connector_USB:USB_Mini-B_Wuerth_65100516121_Horizontal" H 1550 6600 50  0001 C CNN

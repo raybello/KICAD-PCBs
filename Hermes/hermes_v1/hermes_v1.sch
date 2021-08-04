@@ -50,7 +50,7 @@ F0 "FlightControlComputer" 157
 F1 "FCC.sch" 157
 $EndSheet
 $Comp
-L LD39200PU33R:LD39200PU33R IC1
+L hermes_v1-rescue:LD39200PU33R-LD39200PU33R IC1
 U 1 1 60E8DF86
 P 8400 5100
 F 0 "IC1" H 9100 5365 50  0000 C CNN
@@ -332,7 +332,7 @@ F 3 "~" H 1850 1750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L pkl_misc:PAD_SMD P1
+L hermes_v1-rescue:PAD_SMD-pkl_misc P1
 U 1 1 61092F85
 P 1150 1950
 F 0 "P1" H 1067 1703 60  0000 C CNN
@@ -343,7 +343,7 @@ F 3 "" H 1150 1800 60  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L pkl_misc:PAD_SMD P2
+L hermes_v1-rescue:PAD_SMD-pkl_misc P2
 U 1 1 6109405B
 P 1150 2150
 F 0 "P2" H 1200 2250 60  0000 C CNN
