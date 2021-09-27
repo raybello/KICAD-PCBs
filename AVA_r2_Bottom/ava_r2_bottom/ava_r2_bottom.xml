@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>D:\GITHUB\KICAD PCBs\AVA_r2_Bottom\ava_r2_bottom\ava_r2_bottom.sch</source>
-    <date>5/19/2021 8:33:54 PM</date>
-    <tool>Eeschema (5.1.9)-1</tool>
+    <source>C:\Users\bello\Documents\GitHub\KICAD-PCBs\AVA_r2_Bottom\ava_r2_bottom\ava_r2_bottom.sch</source>
+    <date>6/2/2021 4:33:58 PM</date>
+    <tool>Eeschema (5.1.10)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>AVA Flight Controller </title>
@@ -562,22 +562,22 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>D:\KICAD\share\kicad\library/Connector.lib</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>D:\KICAD\share\kicad\library/Connector_Generic.lib</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
     </library>
     <library logical="Device">
-      <uri>D:\KICAD\share\kicad\library/Device.lib</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
     </library>
     <library logical="Sensor_Motion">
-      <uri>D:\KICAD\share\kicad\library/Sensor_Motion.lib</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Sensor_Motion.lib</uri>
     </library>
     <library logical="Sensor_Pressure">
-      <uri>D:\KICAD\share\kicad\library/Sensor_Pressure.lib</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Sensor_Pressure.lib</uri>
     </library>
     <library logical="ava_r2_bottom-rescue">
-      <uri>D:\GITHUB\KICAD PCBs\AVA_r2_Bottom\ava_r2_bottom/ava_r2_bottom-rescue.lib</uri>
+      <uri>C:\Users\bello\Documents\GitHub\KICAD-PCBs\AVA_r2_Bottom\ava_r2_bottom/ava_r2_bottom-rescue.lib</uri>
     </library>
   </libraries>
   <nets>

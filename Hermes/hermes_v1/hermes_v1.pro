@@ -1,4 +1,4 @@
-update=7/21/2021 8:22:22 PM
+update=8/11/2021 12:32:57 PM
 version=1
 last_client=kicad
 [general]
@@ -43,8 +43,9 @@ TrackWidth2=0.2
 TrackWidth3=0.35
 TrackWidth4=0.4
 TrackWidth5=0.45
-TrackWidth6=0.5
-TrackWidth7=1.5
+TrackWidth6=0.6
+TrackWidth7=0.8
+TrackWidth8=1.5
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -251,4 +252,15 @@ uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
+dPairViaGap=0.25
+[pcbnew/Netclasses/1]
+Name=usb
+Clearance=0.13
+TrackWidth=0.8
+ViaDiameter=0.8
+ViaDrill=0.4
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.8
+dPairGap=0.13
 dPairViaGap=0.25
