@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RP2040_Stamp)(type KiCad)(uri ${KIPRJMOD}/rp2040_stamp_footprints/KiCad5/RP2040_Stamp.pretty)(options "")(descr ""))
+  (lib (name Connector_Wire)(type KiCad)(uri ${KIPRJMOD}/Connector_Wire.pretty)(options "")(descr ""))
+)
