@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0402_1005Metric,237.275,-115.9,270,top
+C2,0.1uF,C_0402_1005Metric,238.5,-120.275,180,top
+C3,0.1uF,C_0402_1005Metric,237.275,-117.9,90,top
+C4,2200pF,C_0402_1005Metric,243.625,-118.45,90,top
+C5,0.1uF,C_0402_1005Metric,233.875,-118.1,0,top
+C6,10uF,C_0402_1005Metric,233.375,-119.65,90,top
+C7,0.1uF,C_0402_1005Metric,233.775,-115.4,0,top
+J4,Micro_SD_Card,microSD_HC_Wuerth_693072010801,222.75,-72.2,90,top
+R1,R_Small,R_0402_1005Metric,251.8,-80.025,180,top
+R2,R_Small,R_0402_1005Metric,251.75,-78.65,0,top
+R3,R_Small,R_0402_1005Metric,240.7,-71,0,top
+R4,R_Small,R_0402_1005Metric,240.64,-73.675,180,top
+U2,MPU-6050,InvenSense_QFN-24_4x4mm_P0.5mm,240.45,-117.1,270,top
+U3,MPL3115A2,NXP_LGA-8_3x5mm_P1.25mm_H1.1mm,230.85,-117.3,180,top

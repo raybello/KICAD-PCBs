@@ -1,0 +1,7 @@
+Info: Front side (top side) place file: "/Users/ray/GitHub/KICAD-PCBs/Hermes_Pico/Hermes_Pico/gerber/Hermes_Pico-top-pos.csv".
+Info: Component count: 14.
+Info: Back side (bottom side) place file: "/Users/ray/GitHub/KICAD-PCBs/Hermes_Pico/Hermes_Pico/gerber/Hermes_Pico-bottom-pos.csv".
+Info: Component count: 0.
+Info: Full component count: 14
+
+Component Placement File generation OK.
