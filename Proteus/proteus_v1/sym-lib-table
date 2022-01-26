@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LMR16030")(type "Legacy")(uri "${KIPRJMOD}/ul_LMR16030SDDAR/KiCAD/2022-01-05_20-39-29/2022-01-05_20-39-29.lib")(options "")(descr ""))
+  (lib (name "IMXRT1062DVL6A")(type "Legacy")(uri "${KIPRJMOD}/MIMXRT1062DVL6A/MIMXRT1062DVL6A.lib")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "LMR16030SDDAR")(type "KiCad")(uri "${KIPRJMOD}/ul_LMR16030SDDAR/KiCAD/2022-01-05_20-39-29/footprints.pretty")(options "")(descr ""))
+)

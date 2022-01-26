@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "LMR16030")(type "KiCad")(uri "${KIPRJMOD}/ul_LMR16030SDDAR/KiCAD/2022-01-05_20-39-29/footprints.pretty")(options "")(descr ""))
+  (lib (name "IMXRT1062DVL6A")(type "KiCad")(uri "${KIPRJMOD}/MIMXRT1062DVL6A/footprints.pretty")(options "")(descr ""))
+)
