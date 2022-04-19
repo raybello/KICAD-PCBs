@@ -1,0 +1,2992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/ray/GitHub/KICAD-PCBs/SIL-CM4/SIL-CM4/SIL-CM4.kicad_sch</source>
+    <date>Monday, April 11, 2022 at 09:55:45 pm</date>
+    <tool>Eeschema (6.0.0-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SIL-CM4.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Motherboard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/SIL-µCarrier Jig/" tstamps="/f51ed475-c615-4325-a0b3-22cb86c5541f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>uCarrier.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>0010fa0c-f7aa-412a-863d-f40f06478623</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>ca6118f6-cd14-44ce-a75f-02098e449867</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>30672e6b-3f6c-4faa-a73a-af02413f9f84</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>10d4bb68-904c-47b1-bd8a-33acea48a1a3</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>4061694b-3cb1-40eb-936a-e2ffda627d2c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>f405339d-55a4-401a-83ec-28d77bd0d174</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>18b06f9e-c3f3-49f9-b022-1f3e0b17a425</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>c3ca63d6-04e4-444a-9ed8-3426b56704d0</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>852c3756-3e51-42f9-bbf4-8e8ea969593b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C_SS</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>898f57fe-081e-476a-9b71-20777682e73a</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>5b22a62c-1d95-4bfb-a6d0-3513d032ab30</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>53475417-39d1-455e-8d7e-35f2be1da20a</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71A106KA73-01.pdf</datasheet>
+      <fields>
+        <field name="Field4">Digikey</field>
+        <field name="Field5">490-14381-1-ND</field>
+        <field name="Field6">GRM21BR71A106KA73L</field>
+        <field name="Field7">Murata</field>
+        <field name="Field8">111893011</field>
+        <field name="Part Description">	10uF 10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Field5" value="490-14381-1-ND"/>
+      <property name="Field4" value="Digikey"/>
+      <property name="Field6" value="GRM21BR71A106KA73L"/>
+      <property name="Field7" value="Murata"/>
+      <property name="Part Description" value="&#x9;10uF 10% 10V Ceramic Capacitor X7R 0805 (2012 Metric)"/>
+      <property name="Field8" value="111893011"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>5cc6dcd9-919b-4bbb-b327-0c2e3b49c1d5</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>a7432ffa-bd65-4ca7-b691-2f554ae4ee6c</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf</datasheet>
+      <fields>
+        <field name="Field4">Farnell</field>
+        <field name="Field5">2611911</field>
+        <field name="Field6">RM EMK105 B7104KV-F</field>
+        <field name="Field7">TAIYO YUDEN EUROPE GMBH</field>
+        <field name="Field8">110091611</field>
+        <field name="Part Description">	0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Field4" value="Farnell"/>
+      <property name="Field5" value="2611911"/>
+      <property name="Field6" value="RM EMK105 B7104KV-F"/>
+      <property name="Field7" value="TAIYO YUDEN EUROPE GMBH"/>
+      <property name="Part Description" value="&#x9;0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"/>
+      <property name="Field8" value="110091611"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>79959ef0-dd63-4583-aace-4608e224238f</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>54e16e8a-bc47-45e0-9159-4c5e61569181</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>311c1aa8-ce58-4421-9866-0e5756ed32fe</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>b8ab6ffd-43bc-4034-9ccb-288bdfc76d76</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>d385351d-7d83-42f1-8546-33d687d99b46</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>dba84027-de3d-409f-8065-e2c0131ff293</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>65d8cc4a-6c47-425c-ae9e-ceccb24f0387</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>7dcc5267-1dad-49ce-9b1f-3470fd52a37f</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>7976da0d-1bd4-47e0-ad0e-411c82a3eddb</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>7fe9f328-7b40-4737-938c-f5040162157b</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>6e901f8d-de31-4712-9607-3a9979e49550</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>84ef311b-bb06-4f2b-9eda-6d0bec839e6d</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>47nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>c851edb9-7dae-482d-b4d6-cbd2b43098d9</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf</datasheet>
+      <fields>
+        <field name="Field4">Farnell</field>
+        <field name="Field5">2611911</field>
+        <field name="Field6">RM EMK105 B7104KV-F</field>
+        <field name="Field7">TAIYO YUDEN EUROPE GMBH</field>
+        <field name="Field8">110091611</field>
+        <field name="Part Description">	0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Field4" value="Farnell"/>
+      <property name="Field5" value="2611911"/>
+      <property name="Field6" value="RM EMK105 B7104KV-F"/>
+      <property name="Field7" value="TAIYO YUDEN EUROPE GMBH"/>
+      <property name="Part Description" value="&#x9;0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"/>
+      <property name="Field8" value="110091611"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>a780de20-fb69-42eb-abbb-8eb75def6e42</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>MMBZ5242B</value>
+      <footprint>Diode_SMD:D_SOT-23_ANK</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf</datasheet>
+      <fields>
+        <field name="LCSC"> C193729</field>
+      </fields>
+      <libsource lib="Diode" part="BZV55C12" description="12V, 500mW, 5%, Zener diode, MiniMELF"/>
+      <property name="LCSC" value=" C193729"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>8e61b96e-efb4-4c0b-b8e1-2897ba375307</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>B340AG</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <fields>
+        <field name="LCSC">C433997</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="LCSC" value="C433997"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>35ce337c-f4e6-4d23-a275-7944a6148824</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_GREEN</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>8525f196-f41a-46a2-99d7-b51b7c6c4411</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_RED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>http://optoelectronics.liteon.com/upload/download/DS22-2000-210/LTST-S270KRKT.pdf</datasheet>
+      <fields>
+        <field name="Field4">Digikey </field>
+        <field name="Field5">	LTST-S270KRKT</field>
+        <field name="Field6">SML-A12U8TT86Q</field>
+        <field name="Field7">Rohm</field>
+        <field name="Field8">650295101</field>
+        <field name="Part Description">	Red 620nm LED Indication - Discrete 2.2V 2-SMD, No Lead</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Field4" value="Digikey "/>
+      <property name="Field5" value="&#x9;LTST-S270KRKT"/>
+      <property name="Field6" value="SML-A12U8TT86Q"/>
+      <property name="Field7" value="Rohm"/>
+      <property name="Field8" value="650295101"/>
+      <property name="Part Description" value="&#x9;Red 620nm LED Indication - Discrete 2.2V 2-SMD, No Lead"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>03b26445-2b60-4035-a0b3-95ee95556a2f</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>6832614f-a179-48e6-bb6e-52c980e84b04</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>6d38ad7e-7636-47c1-ad87-98926c626c87</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>63055641-8fe9-432a-8935-1184773362a3</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>872ec396-e746-4319-a283-06d8f0bdcaa0</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Power Jumper</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>75bc214b-43f2-44cb-9eff-5ce22f3ef440</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Barrel_Jack</value>
+      <footprint>Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_XKB-Connectivity-DC-026LBM-5A-2-0_C381112.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C381112</field>
+      </fields>
+      <libsource lib="CM4IO" part="Barrel_Jack" description=""/>
+      <property name="LCSC" value="C381112"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>18b820da-7c13-4c8a-ac9c-cbcc12410498</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>WiFi_BT_Disable</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>291a7e6b-f87b-4851-b63e-573dffb2b6c5</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>GLOBAL_EN_RUN_PG</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>d8947534-b25c-40cb-aa15-45bc1601d789</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>USB_B_Micro</value>
+      <footprint>Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C132563</field>
+      </fields>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="LCSC" value="C132563"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>4449e682-1292-4d84-825e-cbaa0a6155f9</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>THD-02-R</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.toby.co.uk/uploads/publications/1673.pdf</datasheet>
+      <fields>
+        <field name="Field4">Toby</field>
+        <field name="Field5">THD-02-R</field>
+        <field name="Field6">151-604-425-761</field>
+        <field name="Field7">EDAC</field>
+        <field name="Field8">UCON00791</field>
+        <field name="Part Description">PinHeader_2x02_P2.54mm_Vertical</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Field4" value="Toby"/>
+      <property name="Field5" value="THD-02-R"/>
+      <property name="Field6" value="151-604-425-761"/>
+      <property name="Field7" value="EDAC"/>
+      <property name="Field8" value="UCON00791"/>
+      <property name="Part Description" value="PinHeader_2x02_P2.54mm_Vertical"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>658bce94-be46-4b51-86cf-669b8de1f62a</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>HDMI_A_1.4</value>
+      <footprint>CM4IO:EDAC 690-019-298-412</footprint>
+      <datasheet>https://lcsc.com/product-detail/D-Sub-DVI-span-style-background-color-ff0-HDMI-span-Connectors_BOOMELE-Boom-Precision-Elec-C138388_C138388.html</datasheet>
+      <fields>
+        <field name="LCSC">C138388 </field>
+      </fields>
+      <libsource lib="CM4IO" part="HDMI_A_1.4" description="HDMI 1.4+ type A connector"/>
+      <property name="LCSC" value="C138388 "/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>cabbe769-7ce4-4ed1-ab5f-d7016598552a</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>HDMI_A_1.4</value>
+      <footprint>CM4IO:EDAC 690-019-298-412</footprint>
+      <datasheet>https://lcsc.com/product-detail/D-Sub-DVI-span-style-background-color-ff0-HDMI-span-Connectors_BOOMELE-Boom-Precision-Elec-C138388_C138388.html</datasheet>
+      <fields>
+        <field name="LCSC">C138388 </field>
+      </fields>
+      <libsource lib="CM4IO" part="HDMI_A_1.4" description="HDMI 1.4+ type A connector"/>
+      <property name="LCSC" value="C138388 "/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>51cca9ba-5cdd-49ae-b547-34c7f5d5c94d</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>USB_B_Micro</value>
+      <footprint>Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal</footprint>
+      <fields>
+        <field name="LCSC">C132563</field>
+      </fields>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="LCSC" value="C132563"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>5cf4bf19-5e71-458b-9d45-13b80ad4b684</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>PI_20</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Field4">Toby</field>
+        <field name="Field5">THD-20-R</field>
+        <field name="Field6">THD-20-R</field>
+        <field name="Field7">Toby</field>
+        <field name="Field8">UCON00511</field>
+        <field name="Part Description">PinHeader_2x20_P2.54mm_Vertical</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x20_Odd_Even" description="Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Field4" value="Toby"/>
+      <property name="Field5" value="THD-20-R"/>
+      <property name="Field6" value="THD-20-R"/>
+      <property name="Field7" value="Toby"/>
+      <property name="Field8" value="UCON00511"/>
+      <property name="Part Description" value="PinHeader_2x20_P2.54mm_Vertical"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>44aebe2a-f0a7-4eb5-8bcd-66fc042753b2</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>ANALOG_BOOT_PINS </value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x07_Odd_Even" description="Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>2570f129-495b-4d89-8865-fbfd77ca2596</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>USB_A</value>
+      <footprint>Connector_USB:USB_A_Molex_67643_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="VCSC">C591765</field>
+      </fields>
+      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
+      <property name="VCSC" value="C591765"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>198a9f8c-a00d-485c-a354-8de16d524081</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Micro_SD_Card</value>
+      <footprint>Connector_Card:microSD_HC_Wuerth_693072010801</footprint>
+      <datasheet>http://katalog.we-online.de/em/datasheet/693072010801.pdf</datasheet>
+      <libsource lib="Connector" part="Micro_SD_Card" description="Micro SD Card Socket"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>9dc09a6b-5f4b-4d27-beed-9b4d4cf930c3</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>USB_A</value>
+      <footprint>Connector_USB:USB_A_Molex_67643_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="VCSC">C591765</field>
+      </fields>
+      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
+      <property name="VCSC" value="C591765"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>0aa370bd-23a5-4718-a28d-8b975677f7e1</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>USB_A</value>
+      <footprint>Connector_USB:USB_A_Molex_67643_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="VCSC">C591765</field>
+      </fields>
+      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
+      <property name="VCSC" value="C591765"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>4645bb65-d5cd-475c-987c-6e45c68773c3</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>USB_A</value>
+      <footprint>Connector_USB:USB_A_Molex_67643_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="VCSC">C591765</field>
+      </fields>
+      <libsource lib="Connector" part="USB_A" description="USB Type A connector"/>
+      <property name="VCSC" value="C591765"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>d433700a-59cb-48c2-bf26-47309b5a3007</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>3v3_SEL</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>05074dc7-54f8-4980-9951-14ff5e2b5f38</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>CPU_5V_EN</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>e2135f20-106b-437d-9168-9351fe744131</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>8.2uH</value>
+      <footprint>Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm</footprint>
+      <fields>
+        <field name="LCSC">Mouser 652-SRP7028AA-8R2M</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC" value="Mouser 652-SRP7028AA-8R2M"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>e6569cbc-e5e1-4724-94bf-d8b0cd82a2ba</tstamps>
+    </comp>
+    <comp ref="Module1">
+      <value>ComputeModule4-CM4</value>
+      <footprint>CM4IO:Raspberry-Pi-4-Compute-Module</footprint>
+      <fields>
+        <field name="Field4">Hirose</field>
+        <field name="Field5">2x DF40C-100DS-0.4V</field>
+      </fields>
+      <libsource lib="CM4IO" part="ComputeModule4-CM4" description=""/>
+      <property name="Field4" value="Hirose"/>
+      <property name="Field5" value="2x DF40C-100DS-0.4V"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>c32a734f-9004-4264-8b17-05a658455b0e 769eef5c-ce8d-4f63-9d7c-dbebdd79745e</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMP3013SFV</value>
+      <footprint>Package_SON:Diodes_PowerDI3333-8</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMP3013SFV.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="DMP3013SFV" description="-12A Id, -30V Vds, P-Channel Power MOSFET, 9.5mOhm Ron, 33.7nC Qg (typ), PowerDI3333-8"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>e5f429ff-3418-4f4a-85ce-71aafdf43887</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>12K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>cefddcea-0a27-4fb7-b065-7d2bb1940285</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>364a53ae-d571-447f-a146-26c237b8066b</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>49.9K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>30d62a28-205c-45c1-9abd-b5f5ddfa7794</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>17.8K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>acd05085-50db-4b58-86ff-9f069fce5c3d</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>e8860e91-3268-4c5c-928a-cb0f3e44aa8e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>12K 1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf</datasheet>
+      <fields>
+        <field name="Field4">Farnell</field>
+        <field name="Field5">9239367</field>
+        <field name="Field6">MCR01MZPF1202</field>
+        <field name="Field7">Rohm</field>
+        <field name="Part Description">Resistor 12K M1005 1% 63mW</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Field4" value="Farnell"/>
+      <property name="Field5" value="9239367"/>
+      <property name="Field7" value="Rohm"/>
+      <property name="Field6" value="MCR01MZPF1202"/>
+      <property name="Part Description" value="Resistor 12K M1005 1% 63mW"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>60df16c4-c598-48da-b53d-376464fd90ab</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>68K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf</datasheet>
+      <fields>
+        <field name="Field4">Farnell</field>
+        <field name="Field5">9239278</field>
+        <field name="Field6">RK73G1ETQTP2201D         </field>
+        <field name="Field7">KOA EUROPE GMBH</field>
+        <field name="Field8">120889581</field>
+        <field name="Part Description">Resistor 2.2K M1005 1% 63mW</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Field4" value="Farnell"/>
+      <property name="Field5" value="9239278"/>
+      <property name="Field7" value="KOA EUROPE GMBH"/>
+      <property name="Field6" value="RK73G1ETQTP2201D         "/>
+      <property name="Part Description" value="Resistor 2.2K M1005 1% 63mW"/>
+      <property name="Field8" value="120889581"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>f41a46b3-48c9-454c-baed-b931b260a3be</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf</datasheet>
+      <fields>
+        <field name="Field4">Farnell</field>
+        <field name="Field5">9239235</field>
+        <field name="Field6">RK73H1ETTP1001F</field>
+        <field name="Field7">KOA EUROPE GMBH</field>
+        <field name="Field8">125049511</field>
+        <field name="Part Description">Resistor 1K M1005 1% 63mW</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Field4" value="Farnell"/>
+      <property name="Field5" value="9239235"/>
+      <property name="Field7" value="KOA EUROPE GMBH"/>
+      <property name="Field6" value="RK73H1ETTP1001F"/>
+      <property name="Part Description" value="Resistor 1K M1005 1% 63mW"/>
+      <property name="Field8" value="125049511"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>3cc48a08-ad87-454d-9d78-94518236fd73</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>c79faa7b-b2ab-40d6-86cc-8590681eb347</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>b4ae2da7-b300-4bdc-a9d6-b34c5e2d82fb</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>96559dc1-62f8-49d4-a244-1f41a1067b07</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>WAKE_BTN</value>
+      <footprint>Button_Switch_SMD:SW_SPST_PTS810</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>aca7d8dd-1d83-4217-ace0-e00243c64532</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>USB_5V_pad</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>1917a6be-9e31-4665-8443-5cf4b75bf61c</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>12V_pad</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>648110e5-13ed-4171-930c-735d3b2c55c1</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>Reg_5V_pad</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>2994b33f-1266-463a-b619-e04681b874f5</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>LED_FVoltage</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>113f58a9-a2e8-49a9-b76a-65b487ed474e</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.5mm</footprint>
+      <fields>
+        <field name="Field4">nf</field>
+        <field name="Field5">nf</field>
+        <field name="Field6">nf</field>
+        <field name="Field7">nf</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Field4" value="nf"/>
+      <property name="Field5" value="nf"/>
+      <property name="Field6" value="nf"/>
+      <property name="Field7" value="nf"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>6fde841c-6172-415d-89a8-a02f0a43ae45</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LD1117S33TR_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C347229</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LD1117S33TR_SOT223" description="800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="LCSC" value="C347229"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>fc8c28b2-6ee8-4a10-90cd-4f4457a3b182</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LMR16030SDDAR</value>
+      <footprint>Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lmr33630.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C136648</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="LMR33630ADDA" description="Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=3A, F=400kHz, Adjustable output voltage, HSOP-8"/>
+      <property name="LCSC" value="C136648"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>03995448-643d-46cc-8bcd-a2e53f93088f</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>FE1.1s</value>
+      <footprint>Package_SO:SSOP-28_3.9x9.9mm_P0.635mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf</datasheet>
+      <libsource lib="Interface_USB" part="FE1.1s" description="USB 2.0 High Speed 4-Port Hub Controller, SSOP-28"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>b0959348-4720-424f-9265-656f8b8d4692</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MPQ5071</value>
+      <footprint>Package_DFN_QFN:QFN-12_EP_2x2_Pitch0.4mm</footprint>
+      <datasheet>https://www.digikey.ca/en/products/detail/monolithic-power-systems-inc/MPQ5071GG-AEC1-Z/15648584</datasheet>
+      <fields>
+        <field name="LCSC">Digikey MPQ5071GG-AEC1-Z</field>
+      </fields>
+      <libsource lib="" part="MPQ5071_1" description=""/>
+      <property name="LCSC" value="Digikey MPQ5071GG-AEC1-Z"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>d4c7ff4e-00a2-462b-993e-22853f9f3ff3</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>AP2822CKATR-G1</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP2161.pdf</datasheet>
+      <libsource lib="Power_Management" part="AP2171W" description="Current limited power switch, single channel, SOT-23-5"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>c0178955-9327-4afc-bde3-1da362d6966b</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>FSUSB30MUX</value>
+      <footprint>Symbol:SOP50P490X110-10N</footprint>
+      <fields>
+        <field name="LCSC">512-FSUSB30MUX</field>
+      </fields>
+      <libsource lib="" part="FSUSB30MUX_1" description=""/>
+      <property name="LCSC" value="512-FSUSB30MUX"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>71e49205-83e9-4ff7-b43c-b3d21533851f</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>74LVC1G07</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252FSN74LVC1G07</datasheet>
+      <fields>
+        <field name="LCSC">Mouser 595-74LVC1G07DBVTE4</field>
+      </fields>
+      <libsource lib="74xGxx" part="74LVC1G07" description="Single Buffer Gate w/ Open Drain, Low-Voltage CMOS"/>
+      <property name="LCSC" value="Mouser 595-74LVC1G07DBVTE4"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>e2b7c49a-1963-4377-b61a-c98b04bf49a7</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>74LVC1G07</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&amp;gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252FSN74LVC1G07</datasheet>
+      <fields>
+        <field name="LCSC">Mouser 595-74LVC1G07DBVTE4</field>
+      </fields>
+      <libsource lib="74xGxx" part="74LVC1G07" description="Single Buffer Gate w/ Open Drain, Low-Voltage CMOS"/>
+      <property name="LCSC" value="Mouser 595-74LVC1G07DBVTE4"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>afdb9641-842c-44fb-af76-6cafdd76a766</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>MPU-6050</value>
+      <footprint>Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm</footprint>
+      <datasheet>https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf</datasheet>
+      <libsource lib="Sensor_Motion" part="MPU-6050" description="InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>182280a3-d5f6-4a18-ab40-add29d2ac9f3</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>12MHz</value>
+      <footprint>Crystal:Crystal_SMD_TXC_7A-2Pin_5x3.2mm</footprint>
+      <fields>
+        <field name="Description">12MHz ±30ppm 16pF 50Ω SMD-5032_2P SMD</field>
+        <field name="LCSC ">C557138</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_Small" description="Two pin crystal, small symbol"/>
+      <property name="LCSC " value="C557138"/>
+      <property name="Description" value="12MHz ±30ppm 16pF 50Ω SMD-5032_2P SMD"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>fb56afc9-de6e-4144-92c4-5abeaaf8bd20</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="FSUSB30MUX_1">
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">FSUSB30MUX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SEL" type="power_in"/>
+        <pin num="2" name="HSD1+" type="input"/>
+        <pin num="3" name="HSD2+" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="D-" type="bidirectional"/>
+        <pin num="7" name="HSD2-" type="bidirectional"/>
+        <pin num="8" name="HSD1-" type="bidirectional"/>
+        <pin num="9" name="OE" type="bidirectional"/>
+        <pin num="10" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="MPQ5071_1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPQ5071_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="output"/>
+        <pin num="3" name="VCC" type="input"/>
+        <pin num="4" name="ILIM" type="bidirectional"/>
+        <pin num="5" name="SS" type="bidirectional"/>
+        <pin num="6" name="VIN" type="input"/>
+        <pin num="9" name="VOUT" type="output"/>
+        <pin num="12" name="PG" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="74xGxx" part="74LVC1G07">
+      <description>Single Buffer Gate w/ Open Drain, Low-Voltage CMOS</description>
+      <docs>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</docs>
+      <footprints>
+        <fp>SOT*</fp>
+        <fp>SG-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC1G07</field>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="open_collector"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="CM4IO" part="Barrel_Jack">
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CM4IO" part="ComputeModule4-CM4">
+      <fields>
+        <field name="Reference">Module</field>
+        <field name="Value">ComputeModule4-CM4</field>
+        <field name="Footprint">CM4IO:Raspberry-Pi-4-Compute-Module</field>
+        <field name="Field4">Hirose</field>
+        <field name="Field5">2x DF40C-100DS-0.4V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Ethernet_Pair3_P" type="passive"/>
+        <pin num="4" name="Ethernet_Pair1_P" type="passive"/>
+        <pin num="5" name="Ethernet_Pair3_N" type="passive"/>
+        <pin num="6" name="Ethernet_Pair1_N" type="passive"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="Ethernet_Pair2_N" type="passive"/>
+        <pin num="10" name="Ethernet_Pair0_N" type="passive"/>
+        <pin num="11" name="Ethernet_Pair2_P" type="passive"/>
+        <pin num="12" name="Ethernet_Pair0_P" type="passive"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GND" type="power_in"/>
+        <pin num="15" name="Ethernet_nLED3(3.3v)" type="output"/>
+        <pin num="16" name="Ethernet_SYNC_IN(1.8v)" type="input"/>
+        <pin num="17" name="Ethernet_nLED2(3.3v)" type="output"/>
+        <pin num="18" name="Ethernet_SYNC_OUT(1.8v)" type="input"/>
+        <pin num="19" name="Ethernet_nLED1(3.3v)" type="output"/>
+        <pin num="20" name="EEPROM_nWP" type="passive"/>
+        <pin num="21" name="PI_nLED_Activity" type="open_collector"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO26" type="passive"/>
+        <pin num="25" name="GPIO21" type="passive"/>
+        <pin num="26" name="GPIO19" type="passive"/>
+        <pin num="27" name="GPIO20" type="passive"/>
+        <pin num="28" name="GPIO13" type="passive"/>
+        <pin num="29" name="GPIO16" type="passive"/>
+        <pin num="30" name="GPIO6" type="passive"/>
+        <pin num="31" name="GPIO12" type="passive"/>
+        <pin num="32" name="GND" type="power_in"/>
+        <pin num="33" name="GND" type="power_in"/>
+        <pin num="34" name="GPIO5" type="passive"/>
+        <pin num="35" name="ID_SC" type="passive"/>
+        <pin num="36" name="ID_SD" type="passive"/>
+        <pin num="37" name="GPIO7" type="passive"/>
+        <pin num="38" name="GPIO11" type="passive"/>
+        <pin num="39" name="GPIO8" type="passive"/>
+        <pin num="40" name="GPIO9" type="passive"/>
+        <pin num="41" name="GPIO25" type="passive"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="GPIO10" type="passive"/>
+        <pin num="45" name="GPIO24" type="passive"/>
+        <pin num="46" name="GPIO22" type="passive"/>
+        <pin num="47" name="GPIO23" type="passive"/>
+        <pin num="48" name="GPIO27" type="passive"/>
+        <pin num="49" name="GPIO18" type="passive"/>
+        <pin num="50" name="GPIO17" type="passive"/>
+        <pin num="51" name="GPIO15" type="passive"/>
+        <pin num="52" name="GND" type="power_in"/>
+        <pin num="53" name="GND" type="power_in"/>
+        <pin num="54" name="GPIO4" type="passive"/>
+        <pin num="55" name="GPIO14" type="passive"/>
+        <pin num="56" name="GPIO3" type="passive"/>
+        <pin num="57" name="SD_CLK" type="passive"/>
+        <pin num="58" name="GPIO2" type="passive"/>
+        <pin num="59" name="GND" type="power_in"/>
+        <pin num="60" name="GND" type="power_in"/>
+        <pin num="61" name="SD_DAT3" type="passive"/>
+        <pin num="62" name="SD_CMD" type="passive"/>
+        <pin num="63" name="SD_DAT0" type="passive"/>
+        <pin num="64" name="SD_DAT5" type="passive"/>
+        <pin num="65" name="GND" type="power_in"/>
+        <pin num="66" name="GND" type="power_in"/>
+        <pin num="67" name="SD_DAT1" type="passive"/>
+        <pin num="68" name="SD_DAT4" type="passive"/>
+        <pin num="69" name="SD_DAT2" type="passive"/>
+        <pin num="70" name="SD_DAT7" type="passive"/>
+        <pin num="71" name="GND" type="power_in"/>
+        <pin num="72" name="SD_DAT6" type="passive"/>
+        <pin num="73" name="SD_VDD_Override" type="input"/>
+        <pin num="74" name="GND" type="power_in"/>
+        <pin num="75" name="SD_PWR_ON" type="output"/>
+        <pin num="76" name="Reserved" type="passive"/>
+        <pin num="77" name="+5v_(Input)" type="power_in"/>
+        <pin num="78" name="GPIO_VREF(1.8v/3.3v_Input)" type="power_in"/>
+        <pin num="79" name="+5v_(Input)" type="power_in"/>
+        <pin num="80" name="SCL0" type="passive"/>
+        <pin num="81" name="+5v_(Input)" type="power_in"/>
+        <pin num="82" name="SDA0" type="passive"/>
+        <pin num="83" name="+5v_(Input)" type="power_in"/>
+        <pin num="84" name="+3.3v_(Output)" type="power_out"/>
+        <pin num="85" name="+5v_(Input)" type="power_in"/>
+        <pin num="86" name="+3.3v_(Output)" type="power_out"/>
+        <pin num="87" name="+5v_(Input)" type="power_in"/>
+        <pin num="88" name="+1.8v_(Output)" type="power_out"/>
+        <pin num="89" name="WiFi_nDisable" type="power_in"/>
+        <pin num="90" name="+1.8v_(Output)" type="power_out"/>
+        <pin num="91" name="BT_nDisable" type="power_in"/>
+        <pin num="92" name="RUN_PG" type="passive"/>
+        <pin num="93" name="nRPIBOOT" type="input"/>
+        <pin num="94" name="AnalogIP1" type="passive"/>
+        <pin num="95" name="nPI_LED_PWR" type="output"/>
+        <pin num="96" name="AnalogIP0" type="passive"/>
+        <pin num="97" name="Camera_GPIO" type="passive"/>
+        <pin num="98" name="GND" type="power_in"/>
+        <pin num="99" name="Global_EN" type="input"/>
+        <pin num="100" name="nEXTRST" type="output"/>
+        <pin num="101" name="USB_OTG_ID" type="input"/>
+        <pin num="102" name="PCIe_CLK_nREQ" type="input"/>
+        <pin num="103" name="USB2_N" type="passive"/>
+        <pin num="104" name="Reserved" type="passive"/>
+        <pin num="105" name="USB2_P" type="passive"/>
+        <pin num="106" name="Reserved" type="passive"/>
+        <pin num="107" name="GND" type="power_in"/>
+        <pin num="108" name="GND" type="power_in"/>
+        <pin num="109" name="PCIe_nRST" type="bidirectional"/>
+        <pin num="110" name="PCIe_CLK_P" type="output"/>
+        <pin num="111" name="VDAC_COMP" type="passive"/>
+        <pin num="112" name="PCIe_CLK_N" type="output"/>
+        <pin num="113" name="GND" type="power_in"/>
+        <pin num="114" name="GND" type="power_in"/>
+        <pin num="115" name="CAM1_D0_N" type="input"/>
+        <pin num="116" name="PCIe_RX_P" type="input"/>
+        <pin num="117" name="CAM1_D0_P" type="input"/>
+        <pin num="118" name="PCIe_RX_N" type="input"/>
+        <pin num="119" name="GND" type="power_in"/>
+        <pin num="120" name="GND" type="power_in"/>
+        <pin num="121" name="CAM1_D1_N" type="input"/>
+        <pin num="122" name="PCIe_TX_P" type="output"/>
+        <pin num="123" name="CAM1_D1_P" type="input"/>
+        <pin num="124" name="PCIe_TX_N" type="output"/>
+        <pin num="125" name="GND" type="power_in"/>
+        <pin num="126" name="GND" type="power_in"/>
+        <pin num="127" name="CAM1_C_N" type="input"/>
+        <pin num="128" name="CAM0_D0_N" type="input"/>
+        <pin num="129" name="CAM1_C_P" type="input"/>
+        <pin num="130" name="CAM0_D0_P" type="input"/>
+        <pin num="131" name="GND" type="power_in"/>
+        <pin num="132" name="GND" type="power_in"/>
+        <pin num="133" name="CAM1_D2_N" type="input"/>
+        <pin num="134" name="CAM0_D1_N" type="input"/>
+        <pin num="135" name="CAM1_D2_P" type="input"/>
+        <pin num="136" name="CAM0_D1_P" type="input"/>
+        <pin num="137" name="GND" type="power_in"/>
+        <pin num="138" name="GND" type="power_in"/>
+        <pin num="139" name="CAM1_D3_N" type="input"/>
+        <pin num="140" name="CAM0_C_N" type="input"/>
+        <pin num="141" name="CAM1_D3_P" type="input"/>
+        <pin num="142" name="CAM0_C_P" type="input"/>
+        <pin num="143" name="HDMI1_HOTPLUG" type="input"/>
+        <pin num="144" name="GND" type="power_in"/>
+        <pin num="145" name="HDMI1_SDA" type="bidirectional"/>
+        <pin num="146" name="HDMI1_TX2_P" type="output"/>
+        <pin num="147" name="HDMI1_SCL" type="open_collector"/>
+        <pin num="148" name="HDMI1_TX2_N" type="output"/>
+        <pin num="149" name="HDMI1_CEC" type="open_collector"/>
+        <pin num="150" name="GND" type="power_in"/>
+        <pin num="151" name="HDMI0_CEC" type="open_collector"/>
+        <pin num="152" name="HDMI1_TX1_P" type="output"/>
+        <pin num="153" name="HDMI0_HOTPLUG" type="input"/>
+        <pin num="154" name="HDMI1_TX1_N" type="output"/>
+        <pin num="155" name="GND" type="power_in"/>
+        <pin num="156" name="GND" type="power_in"/>
+        <pin num="157" name="DSI0_D0_N" type="output"/>
+        <pin num="158" name="HDMI1_TX0_P" type="output"/>
+        <pin num="159" name="DSI0_D0_P" type="output"/>
+        <pin num="160" name="HDMI1_TX0_N" type="output"/>
+        <pin num="161" name="GND" type="power_in"/>
+        <pin num="162" name="GND" type="power_in"/>
+        <pin num="163" name="DSI0_D1_N" type="output"/>
+        <pin num="164" name="HDMI1_CLK_P" type="output"/>
+        <pin num="165" name="DSI0_D1_P" type="output"/>
+        <pin num="166" name="HDMI1_CLK_N" type="output"/>
+        <pin num="167" name="GND" type="power_in"/>
+        <pin num="168" name="GND" type="power_in"/>
+        <pin num="169" name="DSI0_C_N" type="output"/>
+        <pin num="170" name="HDMI0_TX2_P" type="output"/>
+        <pin num="171" name="DSI0_C_P" type="output"/>
+        <pin num="172" name="HDMI0_TX2_N" type="output"/>
+        <pin num="173" name="GND" type="power_in"/>
+        <pin num="174" name="GND" type="power_in"/>
+        <pin num="175" name="DSI1_D0_N" type="output"/>
+        <pin num="176" name="HDMI0_TX1_P" type="output"/>
+        <pin num="177" name="DSI1_D0_P" type="output"/>
+        <pin num="178" name="HDMI0_TX1_N" type="output"/>
+        <pin num="179" name="GND" type="power_in"/>
+        <pin num="180" name="GND" type="power_in"/>
+        <pin num="181" name="DSI1_D1_N" type="output"/>
+        <pin num="182" name="HDMI0_TX0_P" type="output"/>
+        <pin num="183" name="DSI1_D1_P" type="output"/>
+        <pin num="184" name="HDMI0_TX0_N" type="output"/>
+        <pin num="185" name="GND" type="power_in"/>
+        <pin num="186" name="GND" type="power_in"/>
+        <pin num="187" name="DSI1_C_N" type="output"/>
+        <pin num="188" name="HDMI0_CLK_P" type="output"/>
+        <pin num="189" name="DSI1_C_P" type="output"/>
+        <pin num="190" name="HDMI0_CLK_N" type="output"/>
+        <pin num="191" name="GND" type="power_in"/>
+        <pin num="192" name="GND" type="power_in"/>
+        <pin num="193" name="DSI1_D2_N" type="output"/>
+        <pin num="194" name="DSI1_D3_N" type="output"/>
+        <pin num="195" name="DSI1_D2_P" type="output"/>
+        <pin num="196" name="DSI1_D3_P" type="output"/>
+        <pin num="197" name="GND" type="power_in"/>
+        <pin num="198" name="GND" type="power_in"/>
+        <pin num="199" name="HDMI0_SDA" type="bidirectional"/>
+        <pin num="200" name="HDMI0_SCL" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="CM4IO" part="HDMI_A_1.4">
+      <description>HDMI 1.4+ type A connector</description>
+      <docs>https://en.wikipedia.org/wiki/HDMI</docs>
+      <footprints>
+        <fp>HDMI*A*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HDMI_A_1.4</field>
+        <field name="Datasheet">https://en.wikipedia.org/wiki/HDMI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D2+" type="passive"/>
+        <pin num="2" name="D2S" type="power_in"/>
+        <pin num="3" name="D2-" type="passive"/>
+        <pin num="4" name="D1+" type="passive"/>
+        <pin num="5" name="D1S" type="power_in"/>
+        <pin num="6" name="D1-" type="passive"/>
+        <pin num="7" name="D0+" type="passive"/>
+        <pin num="8" name="D0S" type="power_in"/>
+        <pin num="9" name="D0-" type="passive"/>
+        <pin num="10" name="CK+" type="passive"/>
+        <pin num="11" name="CKS" type="power_in"/>
+        <pin num="12" name="CK-" type="passive"/>
+        <pin num="13" name="CEC" type="bidirectional"/>
+        <pin num="14" name="UTILITY/HEAC+" type="passive"/>
+        <pin num="15" name="SCL" type="passive"/>
+        <pin num="16" name="SDA" type="bidirectional"/>
+        <pin num="17" name="GND" type="power_in"/>
+        <pin num="18" name="+5V" type="power_in"/>
+        <pin num="19" name="HPD/HEAC-" type="passive"/>
+        <pin num="SH1" name="SH" type="passive"/>
+        <pin num="SH2" name="SH" type="passive"/>
+        <pin num="SH3" name="SH" type="passive"/>
+        <pin num="SH4" name="SH" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Micro_SD_Card">
+      <description>Micro SD Card Socket</description>
+      <docs>http://katalog.we-online.de/em/datasheet/693072010801.pdf</docs>
+      <footprints>
+        <fp>microSD*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Micro_SD_Card</field>
+        <field name="Datasheet">http://katalog.we-online.de/em/datasheet/693072010801.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="bidirectional"/>
+        <pin num="2" name="DAT3/CD" type="bidirectional"/>
+        <pin num="3" name="CMD" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="DAT0" type="bidirectional"/>
+        <pin num="8" name="DAT1" type="bidirectional"/>
+        <pin num="9" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_A">
+      <description>USB Type A connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_A</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_in"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x02_Odd_Even">
+      <description>Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x02_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x07_Odd_Even">
+      <description>Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x07_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x20_Odd_Even">
+      <description>Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x20_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_Small">
+      <description>Two pin crystal, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_Small">
+      <description>Schottky diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BZV55C12">
+      <description>12V, 500mW, 5%, Zener diode, MiniMELF</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf</docs>
+      <footprints>
+        <fp>D*MiniMELF*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BZV55C12</field>
+        <field name="Footprint">Diode_SMD:D_MiniMELF</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/BZV55_SER.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="FE1.1s">
+      <description>USB 2.0 High Speed 4-Port Hub Controller, SSOP-28</description>
+      <docs>https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf</docs>
+      <footprints>
+        <fp>SSOP*3.9x9.9mm*P0.635mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FE1.1s</field>
+        <field name="Footprint">Package_SO:SSOP-28_3.9x9.9mm_P0.635mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="XOUT" type="output"/>
+        <pin num="3" name="XIN" type="input"/>
+        <pin num="4" name="DM4" type="bidirectional"/>
+        <pin num="5" name="DP4" type="bidirectional"/>
+        <pin num="6" name="DM3" type="bidirectional"/>
+        <pin num="7" name="DP3" type="bidirectional"/>
+        <pin num="8" name="DM2" type="bidirectional"/>
+        <pin num="9" name="DP2" type="bidirectional"/>
+        <pin num="10" name="DM1" type="bidirectional"/>
+        <pin num="11" name="DP1" type="bidirectional"/>
+        <pin num="12" name="VD18_O" type="power_out"/>
+        <pin num="13" name="VD33" type="power_in"/>
+        <pin num="14" name="REXT" type="passive"/>
+        <pin num="15" name="DMU" type="bidirectional"/>
+        <pin num="16" name="DPU" type="bidirectional"/>
+        <pin num="17" name="~{XRSTJ}" type="input"/>
+        <pin num="18" name="VBUSM" type="input"/>
+        <pin num="19" name="BUSJ" type="input"/>
+        <pin num="20" name="VDD5" type="power_in"/>
+        <pin num="21" name="VD33_O" type="power_out"/>
+        <pin num="22" name="DRV" type="bidirectional"/>
+        <pin num="23" name="LED1/EESCL" type="bidirectional"/>
+        <pin num="24" name="LED2" type="bidirectional"/>
+        <pin num="25" name="PWRJ" type="output"/>
+        <pin num="26" name="OVCJ" type="input"/>
+        <pin num="27" name="TESTJ/EESDA" type="bidirectional"/>
+        <pin num="28" name="VD18" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_3_Open">
+      <description>Jumper, 3-pole, both open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*3Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="input"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Power_Management" part="AP2171W">
+      <description>Current limited power switch, single channel, SOT-23-5</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AP2161.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">AP2822CKATR-G1</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP2161.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="~{FLG}" type="open_collector"/>
+        <pin num="4" name="VIN" type="input"/>
+        <pin num="5" name="VOUT" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LD1117S33TR_SOT223">
+      <description>800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LD1117S33TR_SOT223</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="LMR33630ADDA">
+      <description>Simple Switcher Synchronous Buck Regulator, Vin=3.8-36V, Iout=3A, F=400kHz, Adjustable output voltage, HSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lmr33630.pdf</docs>
+      <footprints>
+        <fp>Texas*HSOP*1EP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMR33630ADDA</field>
+        <field name="Footprint">Package_SO:Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm_ThermalVias</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lmr33630.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PGND" type="power_in"/>
+        <pin num="2" name="VIN" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="PG" type="open_collector"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="6" name="VCC" type="power_out"/>
+        <pin num="7" name="BOOT" type="input"/>
+        <pin num="8" name="SW" type="output"/>
+        <pin num="9" name="AGND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Motion" part="MPU-6050">
+      <description>InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C</description>
+      <docs>https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf</docs>
+      <footprints>
+        <fp>*QFN-24*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPU-6050</field>
+        <field name="Footprint">Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm</field>
+        <field name="Datasheet">https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CLKIN" type="input"/>
+        <pin num="6" name="AUX_SDA" type="bidirectional"/>
+        <pin num="7" name="AUX_SCL" type="output"/>
+        <pin num="8" name="VDDIO" type="power_in"/>
+        <pin num="9" name="AD0" type="input"/>
+        <pin num="10" name="REGOUT" type="passive"/>
+        <pin num="11" name="FSYNC" type="input"/>
+        <pin num="12" name="INT" type="output"/>
+        <pin num="13" name="VDD" type="power_in"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="20" name="CPOUT" type="passive"/>
+        <pin num="23" name="SCL" type="input"/>
+        <pin num="24" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="DMP3013SFV">
+      <description>-12A Id, -30V Vds, P-Channel Power MOSFET, 9.5mOhm Ron, 33.7nC Qg (typ), PowerDI3333-8</description>
+      <docs>https://www.diodes.com/assets/Datasheets/DMP3013SFV.pdf</docs>
+      <footprints>
+        <fp>Diodes*PowerDI3333*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMP3013SFV</field>
+        <field name="Footprint">Package_SON:Diodes_PowerDI3333-8</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/DMP3013SFV.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="G" type="passive"/>
+        <pin num="5" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="CM4IO">
+      <uri>/Users/ray/GitHub/KICAD-PCBs/SIL-CM4/SIL-CM4/CM4IO/CM4IO.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Power_Management">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Power_Management.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Motion">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Sensor_Motion.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/SIL-Motherboard/+1v8">
+      <node ref="Module1" pin="88" pinfunction="+1.8v_(Output)" pintype="power_out"/>
+      <node ref="Module1" pin="90" pinfunction="+1.8v_(Output)" pintype="power_out"/>
+    </net>
+    <net code="2" name="/SIL-Motherboard/+3V3">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J10" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="C" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U14" pin="13" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U14" pin="8" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="VD33" pintype="power_in"/>
+      <node ref="U3" pin="17" pinfunction="~{XRSTJ}" pintype="input"/>
+      <node ref="U3" pin="18" pinfunction="VBUSM" pintype="input"/>
+      <node ref="U3" pin="19" pinfunction="BUSJ" pintype="input"/>
+      <node ref="U3" pin="21" pinfunction="VD33_O" pintype="power_out"/>
+      <node ref="U3" pin="26" pinfunction="OVCJ" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="3" name="/SIL-Motherboard/+3v3_CM4">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="Module1" pin="78" pinfunction="GPIO_VREF(1.8v/3.3v_Input)" pintype="power_in"/>
+      <node ref="Module1" pin="84" pinfunction="+3.3v_(Output)" pintype="power_out"/>
+      <node ref="Module1" pin="86" pinfunction="+3.3v_(Output)" pintype="power_out"/>
+    </net>
+    <net code="4" name="/SIL-Motherboard/+3v3_Reg">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="5" name="/SIL-Motherboard/+12v">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="6" name="/SIL-Motherboard/1V8">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="VD18_O" pintype="power_out"/>
+      <node ref="U3" pin="28" pinfunction="VD18" pintype="power_in"/>
+    </net>
+    <net code="7" name="/SIL-Motherboard/5V">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="Module1" pin="77" pinfunction="+5v_(Input)" pintype="power_in"/>
+      <node ref="Module1" pin="79" pinfunction="+5v_(Input)" pintype="power_in"/>
+      <node ref="Module1" pin="81" pinfunction="+5v_(Input)" pintype="power_in"/>
+      <node ref="Module1" pin="83" pinfunction="+5v_(Input)" pintype="power_in"/>
+      <node ref="Module1" pin="85" pinfunction="+5v_(Input)" pintype="power_in"/>
+      <node ref="Module1" pin="87" pinfunction="+5v_(Input)" pintype="power_in"/>
+    </net>
+    <net code="8" name="/SIL-Motherboard/AIN0">
+      <node ref="J11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="Module1" pin="96" pinfunction="AnalogIP0" pintype="passive"/>
+    </net>
+    <net code="9" name="/SIL-Motherboard/AIN1">
+      <node ref="J11" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="Module1" pin="94" pinfunction="AnalogIP1" pintype="passive"/>
+    </net>
+    <net code="10" name="/SIL-Motherboard/BT_Disable">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Module1" pin="91" pinfunction="BT_nDisable" pintype="power_in"/>
+    </net>
+    <net code="11" name="/SIL-Motherboard/CAM0_C_N">
+      <node ref="Module1" pin="140" pinfunction="CAM0_C_N" pintype="input"/>
+    </net>
+    <net code="12" name="/SIL-Motherboard/CAM0_C_P">
+      <node ref="Module1" pin="142" pinfunction="CAM0_C_P" pintype="input"/>
+    </net>
+    <net code="13" name="/SIL-Motherboard/CAM0_D0_N">
+      <node ref="Module1" pin="128" pinfunction="CAM0_D0_N" pintype="input"/>
+    </net>
+    <net code="14" name="/SIL-Motherboard/CAM0_D0_P">
+      <node ref="Module1" pin="130" pinfunction="CAM0_D0_P" pintype="input"/>
+    </net>
+    <net code="15" name="/SIL-Motherboard/CAM0_D1_N">
+      <node ref="Module1" pin="134" pinfunction="CAM0_D1_N" pintype="input"/>
+    </net>
+    <net code="16" name="/SIL-Motherboard/CAM0_D1_P">
+      <node ref="Module1" pin="136" pinfunction="CAM0_D1_P" pintype="input"/>
+    </net>
+    <net code="17" name="/SIL-Motherboard/CAM1_C_N">
+      <node ref="Module1" pin="127" pinfunction="CAM1_C_N" pintype="input"/>
+    </net>
+    <net code="18" name="/SIL-Motherboard/CAM1_C_P">
+      <node ref="Module1" pin="129" pinfunction="CAM1_C_P" pintype="input"/>
+    </net>
+    <net code="19" name="/SIL-Motherboard/CAM1_D0_N">
+      <node ref="Module1" pin="115" pinfunction="CAM1_D0_N" pintype="input"/>
+    </net>
+    <net code="20" name="/SIL-Motherboard/CAM1_D0_P">
+      <node ref="Module1" pin="117" pinfunction="CAM1_D0_P" pintype="input"/>
+    </net>
+    <net code="21" name="/SIL-Motherboard/CAM1_D1_N">
+      <node ref="Module1" pin="121" pinfunction="CAM1_D1_N" pintype="input"/>
+    </net>
+    <net code="22" name="/SIL-Motherboard/CAM1_D1_P">
+      <node ref="Module1" pin="123" pinfunction="CAM1_D1_P" pintype="input"/>
+    </net>
+    <net code="23" name="/SIL-Motherboard/CAM1_D2_N">
+      <node ref="Module1" pin="133" pinfunction="CAM1_D2_N" pintype="input"/>
+    </net>
+    <net code="24" name="/SIL-Motherboard/CAM1_D2_P">
+      <node ref="Module1" pin="135" pinfunction="CAM1_D2_P" pintype="input"/>
+    </net>
+    <net code="25" name="/SIL-Motherboard/CAM1_D3_N">
+      <node ref="Module1" pin="139" pinfunction="CAM1_D3_N" pintype="input"/>
+    </net>
+    <net code="26" name="/SIL-Motherboard/CAM1_D3_P">
+      <node ref="Module1" pin="141" pinfunction="CAM1_D3_P" pintype="input"/>
+    </net>
+    <net code="27" name="/SIL-Motherboard/CAM_GPIO">
+      <node ref="Module1" pin="97" pinfunction="Camera_GPIO" pintype="passive"/>
+    </net>
+    <net code="28" name="/SIL-Motherboard/DSI0_C_N">
+      <node ref="Module1" pin="169" pinfunction="DSI0_C_N" pintype="output"/>
+    </net>
+    <net code="29" name="/SIL-Motherboard/DSI0_C_P">
+      <node ref="Module1" pin="171" pinfunction="DSI0_C_P" pintype="output"/>
+    </net>
+    <net code="30" name="/SIL-Motherboard/DSI0_D0_N">
+      <node ref="Module1" pin="157" pinfunction="DSI0_D0_N" pintype="output"/>
+    </net>
+    <net code="31" name="/SIL-Motherboard/DSI0_D0_P">
+      <node ref="Module1" pin="159" pinfunction="DSI0_D0_P" pintype="output"/>
+    </net>
+    <net code="32" name="/SIL-Motherboard/DSI0_D1_N">
+      <node ref="Module1" pin="163" pinfunction="DSI0_D1_N" pintype="output"/>
+    </net>
+    <net code="33" name="/SIL-Motherboard/DSI0_D1_P">
+      <node ref="Module1" pin="165" pinfunction="DSI0_D1_P" pintype="output"/>
+    </net>
+    <net code="34" name="/SIL-Motherboard/DSI1_C_N">
+      <node ref="Module1" pin="187" pinfunction="DSI1_C_N" pintype="output"/>
+    </net>
+    <net code="35" name="/SIL-Motherboard/DSI1_C_P">
+      <node ref="Module1" pin="189" pinfunction="DSI1_C_P" pintype="output"/>
+    </net>
+    <net code="36" name="/SIL-Motherboard/DSI1_D0_N">
+      <node ref="Module1" pin="175" pinfunction="DSI1_D0_N" pintype="output"/>
+    </net>
+    <net code="37" name="/SIL-Motherboard/DSI1_D0_P">
+      <node ref="Module1" pin="177" pinfunction="DSI1_D0_P" pintype="output"/>
+    </net>
+    <net code="38" name="/SIL-Motherboard/DSI1_D1_N">
+      <node ref="Module1" pin="181" pinfunction="DSI1_D1_N" pintype="output"/>
+    </net>
+    <net code="39" name="/SIL-Motherboard/DSI1_D1_P">
+      <node ref="Module1" pin="183" pinfunction="DSI1_D1_P" pintype="output"/>
+    </net>
+    <net code="40" name="/SIL-Motherboard/DSI1_D2_N">
+      <node ref="Module1" pin="193" pinfunction="DSI1_D2_N" pintype="output"/>
+    </net>
+    <net code="41" name="/SIL-Motherboard/DSI1_D2_P">
+      <node ref="Module1" pin="195" pinfunction="DSI1_D2_P" pintype="output"/>
+    </net>
+    <net code="42" name="/SIL-Motherboard/DSI1_D3_N">
+      <node ref="Module1" pin="194" pinfunction="DSI1_D3_N" pintype="output"/>
+    </net>
+    <net code="43" name="/SIL-Motherboard/DSI1_D3_P">
+      <node ref="Module1" pin="196" pinfunction="DSI1_D3_P" pintype="output"/>
+    </net>
+    <net code="44" name="/SIL-Motherboard/EEPROM_nWP">
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Module1" pin="20" pinfunction="EEPROM_nWP" pintype="passive"/>
+    </net>
+    <net code="45" name="/SIL-Motherboard/ETH_LEDG">
+      <node ref="Module1" pin="17" pinfunction="Ethernet_nLED2(3.3v)" pintype="output"/>
+    </net>
+    <net code="46" name="/SIL-Motherboard/ETH_LEDY">
+      <node ref="Module1" pin="15" pinfunction="Ethernet_nLED3(3.3v)" pintype="output"/>
+    </net>
+    <net code="47" name="/SIL-Motherboard/GLOBAL_EN">
+      <node ref="J11" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Module1" pin="99" pinfunction="Global_EN" pintype="input"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="/SIL-Motherboard/GPIO2">
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Module1" pin="58" pinfunction="GPIO2" pintype="passive"/>
+    </net>
+    <net code="49" name="/SIL-Motherboard/GPIO3">
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="Module1" pin="56" pinfunction="GPIO3" pintype="passive"/>
+    </net>
+    <net code="50" name="/SIL-Motherboard/GPIO4">
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="Module1" pin="54" pinfunction="GPIO4" pintype="passive"/>
+    </net>
+    <net code="51" name="/SIL-Motherboard/GPIO5">
+      <node ref="J10" pin="29" pinfunction="Pin_29" pintype="passive"/>
+      <node ref="Module1" pin="34" pinfunction="GPIO5" pintype="passive"/>
+    </net>
+    <net code="52" name="/SIL-Motherboard/GPIO6">
+      <node ref="J10" pin="31" pinfunction="Pin_31" pintype="passive"/>
+      <node ref="Module1" pin="30" pinfunction="GPIO6" pintype="passive"/>
+    </net>
+    <net code="53" name="/SIL-Motherboard/GPIO7">
+      <node ref="J10" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="Module1" pin="37" pinfunction="GPIO7" pintype="passive"/>
+    </net>
+    <net code="54" name="/SIL-Motherboard/GPIO8">
+      <node ref="J10" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="Module1" pin="39" pinfunction="GPIO8" pintype="passive"/>
+    </net>
+    <net code="55" name="/SIL-Motherboard/GPIO9">
+      <node ref="J10" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="Module1" pin="40" pinfunction="GPIO9" pintype="passive"/>
+    </net>
+    <net code="56" name="/SIL-Motherboard/GPIO10">
+      <node ref="J10" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="Module1" pin="44" pinfunction="GPIO10" pintype="passive"/>
+    </net>
+    <net code="57" name="/SIL-Motherboard/GPIO11">
+      <node ref="J10" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="Module1" pin="38" pinfunction="GPIO11" pintype="passive"/>
+    </net>
+    <net code="58" name="/SIL-Motherboard/GPIO12">
+      <node ref="J10" pin="32" pinfunction="Pin_32" pintype="passive"/>
+      <node ref="Module1" pin="31" pinfunction="GPIO12" pintype="passive"/>
+    </net>
+    <net code="59" name="/SIL-Motherboard/GPIO13">
+      <node ref="J10" pin="33" pinfunction="Pin_33" pintype="passive"/>
+      <node ref="Module1" pin="28" pinfunction="GPIO13" pintype="passive"/>
+    </net>
+    <net code="60" name="/SIL-Motherboard/GPIO14">
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="Module1" pin="55" pinfunction="GPIO14" pintype="passive"/>
+    </net>
+    <net code="61" name="/SIL-Motherboard/GPIO15">
+      <node ref="J10" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="Module1" pin="51" pinfunction="GPIO15" pintype="passive"/>
+    </net>
+    <net code="62" name="/SIL-Motherboard/GPIO16">
+      <node ref="J10" pin="36" pinfunction="Pin_36" pintype="passive"/>
+      <node ref="Module1" pin="29" pinfunction="GPIO16" pintype="passive"/>
+    </net>
+    <net code="63" name="/SIL-Motherboard/GPIO17">
+      <node ref="J10" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="Module1" pin="50" pinfunction="GPIO17" pintype="passive"/>
+    </net>
+    <net code="64" name="/SIL-Motherboard/GPIO18">
+      <node ref="J10" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="Module1" pin="49" pinfunction="GPIO18" pintype="passive"/>
+    </net>
+    <net code="65" name="/SIL-Motherboard/GPIO19">
+      <node ref="J10" pin="35" pinfunction="Pin_35" pintype="passive"/>
+      <node ref="Module1" pin="26" pinfunction="GPIO19" pintype="passive"/>
+    </net>
+    <net code="66" name="/SIL-Motherboard/GPIO20">
+      <node ref="J10" pin="38" pinfunction="Pin_38" pintype="passive"/>
+      <node ref="Module1" pin="27" pinfunction="GPIO20" pintype="passive"/>
+    </net>
+    <net code="67" name="/SIL-Motherboard/GPIO21">
+      <node ref="J10" pin="40" pinfunction="Pin_40" pintype="passive"/>
+      <node ref="Module1" pin="25" pinfunction="GPIO21" pintype="passive"/>
+    </net>
+    <net code="68" name="/SIL-Motherboard/GPIO22">
+      <node ref="J10" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="Module1" pin="46" pinfunction="GPIO22" pintype="passive"/>
+    </net>
+    <net code="69" name="/SIL-Motherboard/GPIO23">
+      <node ref="J10" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="Module1" pin="47" pinfunction="GPIO23" pintype="passive"/>
+    </net>
+    <net code="70" name="/SIL-Motherboard/GPIO24">
+      <node ref="J10" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="Module1" pin="45" pinfunction="GPIO24" pintype="passive"/>
+    </net>
+    <net code="71" name="/SIL-Motherboard/GPIO25">
+      <node ref="J10" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="Module1" pin="41" pinfunction="GPIO25" pintype="passive"/>
+    </net>
+    <net code="72" name="/SIL-Motherboard/GPIO26">
+      <node ref="J10" pin="37" pinfunction="Pin_37" pintype="passive"/>
+      <node ref="Module1" pin="24" pinfunction="GPIO26" pintype="passive"/>
+    </net>
+    <net code="73" name="/SIL-Motherboard/GPIO27">
+      <node ref="J10" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="Module1" pin="48" pinfunction="GPIO27" pintype="passive"/>
+    </net>
+    <net code="74" name="/SIL-Motherboard/HDMI0_CEC">
+      <node ref="J7" pin="13" pinfunction="CEC" pintype="bidirectional"/>
+      <node ref="Module1" pin="151" pinfunction="HDMI0_CEC" pintype="open_collector"/>
+    </net>
+    <net code="75" name="/SIL-Motherboard/HDMI0_CK_N">
+      <node ref="J7" pin="12" pinfunction="CK-" pintype="passive"/>
+      <node ref="Module1" pin="190" pinfunction="HDMI0_CLK_N" pintype="output"/>
+    </net>
+    <net code="76" name="/SIL-Motherboard/HDMI0_CK_P">
+      <node ref="J7" pin="10" pinfunction="CK+" pintype="passive"/>
+      <node ref="Module1" pin="188" pinfunction="HDMI0_CLK_P" pintype="output"/>
+    </net>
+    <net code="77" name="/SIL-Motherboard/HDMI0_D0_N">
+      <node ref="J7" pin="9" pinfunction="D0-" pintype="passive"/>
+      <node ref="Module1" pin="184" pinfunction="HDMI0_TX0_N" pintype="output"/>
+    </net>
+    <net code="78" name="/SIL-Motherboard/HDMI0_D0_P">
+      <node ref="J7" pin="7" pinfunction="D0+" pintype="passive"/>
+      <node ref="Module1" pin="182" pinfunction="HDMI0_TX0_P" pintype="output"/>
+    </net>
+    <net code="79" name="/SIL-Motherboard/HDMI0_D1_N">
+      <node ref="J7" pin="6" pinfunction="D1-" pintype="passive"/>
+      <node ref="Module1" pin="178" pinfunction="HDMI0_TX1_N" pintype="output"/>
+    </net>
+    <net code="80" name="/SIL-Motherboard/HDMI0_D1_P">
+      <node ref="J7" pin="4" pinfunction="D1+" pintype="passive"/>
+      <node ref="Module1" pin="176" pinfunction="HDMI0_TX1_P" pintype="output"/>
+    </net>
+    <net code="81" name="/SIL-Motherboard/HDMI0_D2_N">
+      <node ref="J7" pin="3" pinfunction="D2-" pintype="passive"/>
+      <node ref="Module1" pin="172" pinfunction="HDMI0_TX2_N" pintype="output"/>
+    </net>
+    <net code="82" name="/SIL-Motherboard/HDMI0_D2_P">
+      <node ref="J7" pin="1" pinfunction="D2+" pintype="passive"/>
+      <node ref="Module1" pin="170" pinfunction="HDMI0_TX2_P" pintype="output"/>
+    </net>
+    <net code="83" name="/SIL-Motherboard/HDMI0_HOTPLUG">
+      <node ref="J7" pin="19" pinfunction="HPD/HEAC-" pintype="passive"/>
+      <node ref="Module1" pin="153" pinfunction="HDMI0_HOTPLUG" pintype="input"/>
+    </net>
+    <net code="84" name="/SIL-Motherboard/HDMI0_SCL">
+      <node ref="J7" pin="15" pinfunction="SCL" pintype="passive"/>
+      <node ref="Module1" pin="200" pinfunction="HDMI0_SCL" pintype="open_collector"/>
+    </net>
+    <net code="85" name="/SIL-Motherboard/HDMI0_SDA">
+      <node ref="J7" pin="16" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="Module1" pin="199" pinfunction="HDMI0_SDA" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="/SIL-Motherboard/HDMI1_CEC">
+      <node ref="J8" pin="13" pinfunction="CEC" pintype="bidirectional"/>
+      <node ref="Module1" pin="149" pinfunction="HDMI1_CEC" pintype="open_collector"/>
+    </net>
+    <net code="87" name="/SIL-Motherboard/HDMI1_CK_N">
+      <node ref="J8" pin="12" pinfunction="CK-" pintype="passive"/>
+      <node ref="Module1" pin="166" pinfunction="HDMI1_CLK_N" pintype="output"/>
+    </net>
+    <net code="88" name="/SIL-Motherboard/HDMI1_CK_P">
+      <node ref="J8" pin="10" pinfunction="CK+" pintype="passive"/>
+      <node ref="Module1" pin="164" pinfunction="HDMI1_CLK_P" pintype="output"/>
+    </net>
+    <net code="89" name="/SIL-Motherboard/HDMI1_D0_N">
+      <node ref="J8" pin="9" pinfunction="D0-" pintype="passive"/>
+      <node ref="Module1" pin="160" pinfunction="HDMI1_TX0_N" pintype="output"/>
+    </net>
+    <net code="90" name="/SIL-Motherboard/HDMI1_D0_P">
+      <node ref="J8" pin="7" pinfunction="D0+" pintype="passive"/>
+      <node ref="Module1" pin="158" pinfunction="HDMI1_TX0_P" pintype="output"/>
+    </net>
+    <net code="91" name="/SIL-Motherboard/HDMI1_D1_N">
+      <node ref="J8" pin="6" pinfunction="D1-" pintype="passive"/>
+      <node ref="Module1" pin="154" pinfunction="HDMI1_TX1_N" pintype="output"/>
+    </net>
+    <net code="92" name="/SIL-Motherboard/HDMI1_D1_P">
+      <node ref="J8" pin="4" pinfunction="D1+" pintype="passive"/>
+      <node ref="Module1" pin="152" pinfunction="HDMI1_TX1_P" pintype="output"/>
+    </net>
+    <net code="93" name="/SIL-Motherboard/HDMI1_D2_N">
+      <node ref="J8" pin="3" pinfunction="D2-" pintype="passive"/>
+      <node ref="Module1" pin="148" pinfunction="HDMI1_TX2_N" pintype="output"/>
+    </net>
+    <net code="94" name="/SIL-Motherboard/HDMI1_D2_P">
+      <node ref="J8" pin="1" pinfunction="D2+" pintype="passive"/>
+      <node ref="Module1" pin="146" pinfunction="HDMI1_TX2_P" pintype="output"/>
+    </net>
+    <net code="95" name="/SIL-Motherboard/HDMI1_HOTPLUG">
+      <node ref="J8" pin="19" pinfunction="HPD/HEAC-" pintype="passive"/>
+      <node ref="Module1" pin="143" pinfunction="HDMI1_HOTPLUG" pintype="input"/>
+    </net>
+    <net code="96" name="/SIL-Motherboard/HDMI1_SCL">
+      <node ref="J8" pin="15" pinfunction="SCL" pintype="passive"/>
+      <node ref="Module1" pin="147" pinfunction="HDMI1_SCL" pintype="open_collector"/>
+    </net>
+    <net code="97" name="/SIL-Motherboard/HDMI1_SDA">
+      <node ref="J8" pin="16" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="Module1" pin="145" pinfunction="HDMI1_SDA" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="/SIL-Motherboard/HDMI_5v">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="J7" pin="18" pinfunction="+5V" pintype="power_in"/>
+      <node ref="J8" pin="18" pinfunction="+5V" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="99" name="/SIL-Motherboard/HSD1+">
+      <node ref="U3" pin="16" pinfunction="DPU" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="HSD1+" pintype="input"/>
+    </net>
+    <net code="100" name="/SIL-Motherboard/HSD1-">
+      <node ref="U3" pin="15" pinfunction="DMU" pintype="bidirectional"/>
+      <node ref="U6" pin="8" pinfunction="HSD1-" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="/SIL-Motherboard/HSD2+">
+      <node ref="J5" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U6" pin="3" pinfunction="HSD2+" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="/SIL-Motherboard/HSD2-">
+      <node ref="J5" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U6" pin="7" pinfunction="HSD2-" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="/SIL-Motherboard/ID_SC">
+      <node ref="J10" pin="28" pinfunction="Pin_28" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Module1" pin="35" pinfunction="ID_SC" pintype="passive"/>
+    </net>
+    <net code="104" name="/SIL-Motherboard/ID_SD">
+      <node ref="J10" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Module1" pin="36" pinfunction="ID_SD" pintype="passive"/>
+    </net>
+    <net code="105" name="/SIL-Motherboard/PCIE_CLK_N">
+      <node ref="Module1" pin="112" pinfunction="PCIe_CLK_N" pintype="output"/>
+    </net>
+    <net code="106" name="/SIL-Motherboard/PCIE_CLK_P">
+      <node ref="Module1" pin="110" pinfunction="PCIe_CLK_P" pintype="output"/>
+    </net>
+    <net code="107" name="/SIL-Motherboard/PCIE_RX_N">
+      <node ref="Module1" pin="118" pinfunction="PCIe_RX_N" pintype="input"/>
+    </net>
+    <net code="108" name="/SIL-Motherboard/PCIE_RX_P">
+      <node ref="Module1" pin="116" pinfunction="PCIe_RX_P" pintype="input"/>
+    </net>
+    <net code="109" name="/SIL-Motherboard/PCIE_TX_N">
+      <node ref="Module1" pin="124" pinfunction="PCIe_TX_N" pintype="output"/>
+    </net>
+    <net code="110" name="/SIL-Motherboard/PCIE_TX_P">
+      <node ref="Module1" pin="122" pinfunction="PCIe_TX_P" pintype="output"/>
+    </net>
+    <net code="111" name="/SIL-Motherboard/PCIE_nRST">
+      <node ref="Module1" pin="109" pinfunction="PCIe_nRST" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="/SIL-Motherboard/PCI_CLK_nREQ">
+      <node ref="Module1" pin="102" pinfunction="PCIe_CLK_nREQ" pintype="input"/>
+    </net>
+    <net code="113" name="/SIL-Motherboard/RUN_PG">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Module1" pin="92" pinfunction="RUN_PG" pintype="passive"/>
+      <node ref="U9" pin="2" pintype="input"/>
+    </net>
+    <net code="114" name="/SIL-Motherboard/Reserved">
+      <node ref="Module1" pin="76" pinfunction="Reserved" pintype="passive"/>
+    </net>
+    <net code="115" name="/SIL-Motherboard/SCL0">
+      <node ref="Module1" pin="80" pinfunction="SCL0" pintype="passive"/>
+      <node ref="U14" pin="23" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="116" name="/SIL-Motherboard/SDA0">
+      <node ref="Module1" pin="82" pinfunction="SDA0" pintype="passive"/>
+      <node ref="U14" pin="24" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="/SIL-Motherboard/SD_CLK">
+      <node ref="J14" pin="5" pinfunction="CLK" pintype="input"/>
+      <node ref="Module1" pin="57" pinfunction="SD_CLK" pintype="passive"/>
+    </net>
+    <net code="118" name="/SIL-Motherboard/SD_CMD">
+      <node ref="J14" pin="3" pinfunction="CMD" pintype="input"/>
+      <node ref="Module1" pin="62" pinfunction="SD_CMD" pintype="passive"/>
+    </net>
+    <net code="119" name="/SIL-Motherboard/SD_DAT0">
+      <node ref="J14" pin="7" pinfunction="DAT0" pintype="bidirectional"/>
+      <node ref="Module1" pin="63" pinfunction="SD_DAT0" pintype="passive"/>
+    </net>
+    <net code="120" name="/SIL-Motherboard/SD_DAT1">
+      <node ref="J14" pin="8" pinfunction="DAT1" pintype="bidirectional"/>
+      <node ref="Module1" pin="67" pinfunction="SD_DAT1" pintype="passive"/>
+    </net>
+    <net code="121" name="/SIL-Motherboard/SD_DAT2">
+      <node ref="J14" pin="1" pinfunction="DAT2" pintype="bidirectional"/>
+      <node ref="Module1" pin="69" pinfunction="SD_DAT2" pintype="passive"/>
+    </net>
+    <net code="122" name="/SIL-Motherboard/SD_DAT3">
+      <node ref="J14" pin="2" pinfunction="DAT3/CD" pintype="bidirectional"/>
+      <node ref="Module1" pin="61" pinfunction="SD_DAT3" pintype="passive"/>
+    </net>
+    <net code="123" name="/SIL-Motherboard/SD_PWR">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VOUT" pintype="power_in"/>
+    </net>
+    <net code="124" name="/SIL-Motherboard/SD_PWR_ON">
+      <node ref="Module1" pin="75" pinfunction="SD_PWR_ON" pintype="output"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="EN" pintype="power_out"/>
+    </net>
+    <net code="125" name="/SIL-Motherboard/SYNC_IN">
+      <node ref="J11" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="Module1" pin="16" pinfunction="Ethernet_SYNC_IN(1.8v)" pintype="input"/>
+    </net>
+    <net code="126" name="/SIL-Motherboard/SYNC_OUT">
+      <node ref="J11" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="Module1" pin="18" pinfunction="Ethernet_SYNC_OUT(1.8v)" pintype="input"/>
+    </net>
+    <net code="127" name="/SIL-Motherboard/TRD0_N">
+      <node ref="Module1" pin="12" pinfunction="Ethernet_Pair0_P" pintype="passive"/>
+    </net>
+    <net code="128" name="/SIL-Motherboard/TRD0_P">
+      <node ref="Module1" pin="10" pinfunction="Ethernet_Pair0_N" pintype="passive"/>
+    </net>
+    <net code="129" name="/SIL-Motherboard/TRD1_N">
+      <node ref="Module1" pin="6" pinfunction="Ethernet_Pair1_N" pintype="passive"/>
+    </net>
+    <net code="130" name="/SIL-Motherboard/TRD1_P">
+      <node ref="Module1" pin="4" pinfunction="Ethernet_Pair1_P" pintype="passive"/>
+    </net>
+    <net code="131" name="/SIL-Motherboard/TRD2_N">
+      <node ref="Module1" pin="11" pinfunction="Ethernet_Pair2_P" pintype="passive"/>
+    </net>
+    <net code="132" name="/SIL-Motherboard/TRD2_P">
+      <node ref="Module1" pin="9" pinfunction="Ethernet_Pair2_N" pintype="passive"/>
+    </net>
+    <net code="133" name="/SIL-Motherboard/TRD3_N">
+      <node ref="Module1" pin="5" pinfunction="Ethernet_Pair3_N" pintype="passive"/>
+    </net>
+    <net code="134" name="/SIL-Motherboard/TRD3_P">
+      <node ref="Module1" pin="3" pinfunction="Ethernet_Pair3_P" pintype="passive"/>
+    </net>
+    <net code="135" name="/SIL-Motherboard/TV_OUT">
+      <node ref="J11" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="Module1" pin="111" pinfunction="VDAC_COMP" pintype="passive"/>
+    </net>
+    <net code="136" name="/SIL-Motherboard/USB1+">
+      <node ref="J13" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="11" pinfunction="DP1" pintype="bidirectional"/>
+    </net>
+    <net code="137" name="/SIL-Motherboard/USB1-">
+      <node ref="J13" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="10" pinfunction="DM1" pintype="bidirectional"/>
+    </net>
+    <net code="138" name="/SIL-Motherboard/USB2+">
+      <node ref="J15" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="9" pinfunction="DP2" pintype="bidirectional"/>
+    </net>
+    <net code="139" name="/SIL-Motherboard/USB2-">
+      <node ref="J15" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="8" pinfunction="DM2" pintype="bidirectional"/>
+    </net>
+    <net code="140" name="/SIL-Motherboard/USB2_N">
+      <node ref="Module1" pin="103" pinfunction="USB2_N" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="141" name="/SIL-Motherboard/USB2_P">
+      <node ref="Module1" pin="105" pinfunction="USB2_P" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="142" name="/SIL-Motherboard/USB3+">
+      <node ref="J16" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="DP3" pintype="bidirectional"/>
+    </net>
+    <net code="143" name="/SIL-Motherboard/USB3-">
+      <node ref="J16" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="DM3" pintype="bidirectional"/>
+    </net>
+    <net code="144" name="/SIL-Motherboard/USB4+">
+      <node ref="J17" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="DP4" pintype="bidirectional"/>
+    </net>
+    <net code="145" name="/SIL-Motherboard/USB4-">
+      <node ref="J17" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="DM4" pintype="bidirectional"/>
+    </net>
+    <net code="146" name="/SIL-Motherboard/USBOTG_ID">
+      <node ref="Module1" pin="101" pinfunction="USB_OTG_ID" pintype="input"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="SEL" pintype="power_in"/>
+    </net>
+    <net code="147" name="/SIL-Motherboard/VCC_IN">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="148" name="/SIL-Motherboard/WiFi_Disable">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Module1" pin="89" pinfunction="WiFi_nDisable" pintype="power_in"/>
+    </net>
+    <net code="149" name="/SIL-Motherboard/nEXTRST">
+      <node ref="Module1" pin="100" pinfunction="nEXTRST" pintype="output"/>
+    </net>
+    <net code="150" name="/SIL-Motherboard/nPWR_LED">
+      <node ref="Module1" pin="95" pinfunction="nPI_LED_PWR" pintype="output"/>
+      <node ref="U8" pin="2" pintype="input"/>
+    </net>
+    <net code="151" name="/SIL-Motherboard/nRPiBOOT">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Module1" pin="93" pinfunction="nRPIBOOT" pintype="input"/>
+    </net>
+    <net code="152" name="5v">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J15" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J16" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J17" pin="1" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J9" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U3" pin="20" pinfunction="VDD5" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="EN" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="VCC" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="VIN" pintype="input"/>
+      <node ref="U6" pin="10" pinfunction="VCC" pintype="input"/>
+      <node ref="U8" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U9" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="153" name="FB">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="154" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J10" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="J10" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J10" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="J10" pin="30" pinfunction="Pin_30" pintype="passive"/>
+      <node ref="J10" pin="34" pinfunction="Pin_34" pintype="passive"/>
+      <node ref="J10" pin="39" pinfunction="Pin_39" pintype="passive"/>
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J10" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J11" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J11" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J11" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="J13" pin="5" pinfunction="Shield" pintype="passive"/>
+      <node ref="J14" pin="6" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J14" pin="9" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J15" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="J15" pin="5" pinfunction="Shield" pintype="passive"/>
+      <node ref="J16" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="J16" pin="5" pinfunction="Shield" pintype="passive"/>
+      <node ref="J17" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="J17" pin="5" pinfunction="Shield" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="ID" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J5" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="J7" pin="11" pinfunction="CKS" pintype="power_in"/>
+      <node ref="J7" pin="17" pinfunction="GND" pintype="power_in"/>
+      <node ref="J7" pin="2" pinfunction="D2S" pintype="power_in"/>
+      <node ref="J7" pin="5" pinfunction="D1S" pintype="power_in"/>
+      <node ref="J7" pin="8" pinfunction="D0S" pintype="power_in"/>
+      <node ref="J7" pin="SH1" pinfunction="SH" pintype="passive"/>
+      <node ref="J7" pin="SH2" pinfunction="SH" pintype="passive"/>
+      <node ref="J7" pin="SH3" pinfunction="SH" pintype="passive"/>
+      <node ref="J7" pin="SH4" pinfunction="SH" pintype="passive"/>
+      <node ref="J8" pin="11" pinfunction="CKS" pintype="power_in"/>
+      <node ref="J8" pin="17" pinfunction="GND" pintype="power_in"/>
+      <node ref="J8" pin="2" pinfunction="D2S" pintype="power_in"/>
+      <node ref="J8" pin="5" pinfunction="D1S" pintype="power_in"/>
+      <node ref="J8" pin="8" pinfunction="D0S" pintype="power_in"/>
+      <node ref="J8" pin="SH1" pinfunction="SH" pintype="passive"/>
+      <node ref="J8" pin="SH2" pinfunction="SH" pintype="passive"/>
+      <node ref="J8" pin="SH3" pinfunction="SH" pintype="passive"/>
+      <node ref="J8" pin="SH4" pinfunction="SH" pintype="passive"/>
+      <node ref="J9" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J9" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="Module1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="107" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="108" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="113" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="114" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="119" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="120" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="125" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="126" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="131" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="132" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="137" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="138" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="14" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="144" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="150" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="155" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="156" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="161" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="162" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="167" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="168" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="173" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="174" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="179" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="180" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="185" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="186" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="191" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="192" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="197" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="198" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="22" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="32" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="33" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="42" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="43" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="52" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="53" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="59" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="60" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="65" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="66" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="71" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="74" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="Module1" pin="98" pinfunction="GND" pintype="power_in"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="1" pinfunction="CLKIN" pintype="input"/>
+      <node ref="U14" pin="11" pinfunction="FSYNC" pintype="input"/>
+      <node ref="U14" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="BOOT" pintype="input"/>
+      <node ref="U2" pin="9" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="output"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="9" pinfunction="OE" pintype="bidirectional"/>
+      <node ref="U8" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="155" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="G" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="156" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VCC" pintype="power_out"/>
+    </net>
+    <net code="157" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="PGND" pintype="power_in"/>
+    </net>
+    <net code="158" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="SW" pintype="output"/>
+    </net>
+    <net code="159" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="XOUT" pintype="output"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="160" name="Net-(C21-Pad2)">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="XIN" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="161" name="Net-(C26-Pad1)">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="U14" pin="20" pinfunction="CPOUT" pintype="passive"/>
+    </net>
+    <net code="162" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="U14" pin="10" pinfunction="REGOUT" pintype="passive"/>
+    </net>
+    <net code="163" name="Net-(C37-Pad2)">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="SS" pintype="bidirectional"/>
+    </net>
+    <net code="164" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="165" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="166" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="167" name="Net-(J11-Pad13)">
+      <node ref="J11" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U9" pin="4" pintype="open_collector"/>
+    </net>
+    <net code="168" name="Net-(Module1-Pad21)">
+      <node ref="Module1" pin="21" pinfunction="PI_nLED_Activity" pintype="open_collector"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="169" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="PG" pintype="open_collector"/>
+    </net>
+    <net code="170" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="ILIM" pintype="bidirectional"/>
+    </net>
+    <net code="171" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pintype="open_collector"/>
+    </net>
+    <net code="172" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="REXT" pintype="passive"/>
+    </net>
+    <net code="173" name="unconnected-(J6-Pad2)">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="174" name="unconnected-(J6-Pad4)">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="175" name="unconnected-(J7-Pad14)">
+      <node ref="J7" pin="14" pinfunction="UTILITY/HEAC+" pintype="passive+no_connect"/>
+    </net>
+    <net code="176" name="unconnected-(J8-Pad14)">
+      <node ref="J8" pin="14" pinfunction="UTILITY/HEAC+" pintype="passive+no_connect"/>
+    </net>
+    <net code="177" name="unconnected-(J9-Pad2)">
+      <node ref="J9" pin="2" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="178" name="unconnected-(J9-Pad3)">
+      <node ref="J9" pin="3" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="179" name="unconnected-(J9-Pad4)">
+      <node ref="J9" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="180" name="unconnected-(Module1-Pad19)">
+      <node ref="Module1" pin="19" pinfunction="Ethernet_nLED1(3.3v)" pintype="output+no_connect"/>
+    </net>
+    <net code="181" name="unconnected-(Module1-Pad64)">
+      <node ref="Module1" pin="64" pinfunction="SD_DAT5" pintype="passive+no_connect"/>
+    </net>
+    <net code="182" name="unconnected-(Module1-Pad68)">
+      <node ref="Module1" pin="68" pinfunction="SD_DAT4" pintype="passive+no_connect"/>
+    </net>
+    <net code="183" name="unconnected-(Module1-Pad70)">
+      <node ref="Module1" pin="70" pinfunction="SD_DAT7" pintype="passive+no_connect"/>
+    </net>
+    <net code="184" name="unconnected-(Module1-Pad72)">
+      <node ref="Module1" pin="72" pinfunction="SD_DAT6" pintype="passive+no_connect"/>
+    </net>
+    <net code="185" name="unconnected-(Module1-Pad73)">
+      <node ref="Module1" pin="73" pinfunction="SD_VDD_Override" pintype="input+no_connect"/>
+    </net>
+    <net code="186" name="unconnected-(Module1-Pad104)">
+      <node ref="Module1" pin="104" pinfunction="Reserved" pintype="passive+no_connect"/>
+    </net>
+    <net code="187" name="unconnected-(Module1-Pad106)">
+      <node ref="Module1" pin="106" pinfunction="Reserved" pintype="passive+no_connect"/>
+    </net>
+    <net code="188" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input+no_connect"/>
+    </net>
+    <net code="189" name="unconnected-(U3-Pad22)">
+      <node ref="U3" pin="22" pinfunction="DRV" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="190" name="unconnected-(U3-Pad23)">
+      <node ref="U3" pin="23" pinfunction="LED1/EESCL" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="191" name="unconnected-(U3-Pad24)">
+      <node ref="U3" pin="24" pinfunction="LED2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="192" name="unconnected-(U3-Pad25)">
+      <node ref="U3" pin="25" pinfunction="PWRJ" pintype="output+no_connect"/>
+    </net>
+    <net code="193" name="unconnected-(U3-Pad27)">
+      <node ref="U3" pin="27" pinfunction="TESTJ/EESDA" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="194" name="unconnected-(U4-Pad12)">
+      <node ref="U4" pin="12" pinfunction="PG" pintype="output+no_connect"/>
+    </net>
+    <net code="195" name="unconnected-(U5-Pad3)">
+      <node ref="U5" pin="3" pinfunction="~{FLG}" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="196" name="unconnected-(U14-Pad6)">
+      <node ref="U14" pin="6" pinfunction="AUX_SDA" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="197" name="unconnected-(U14-Pad7)">
+      <node ref="U14" pin="7" pinfunction="AUX_SCL" pintype="output+no_connect"/>
+    </net>
+    <net code="198" name="unconnected-(U14-Pad9)">
+      <node ref="U14" pin="9" pinfunction="AD0" pintype="input+no_connect"/>
+    </net>
+    <net code="199" name="unconnected-(U14-Pad12)">
+      <node ref="U14" pin="12" pinfunction="INT" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>

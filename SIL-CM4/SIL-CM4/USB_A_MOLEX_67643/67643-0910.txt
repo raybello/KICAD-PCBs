@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06062020-068934";"";
+"REFERENCE";"67643-0910";"";
+"TraceParts.PartTitle";"USB Type A PCB Receptacle Right Angle";"";
+"TraceParts.InstanceId";"90-06062020-0689342N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"USB Type A PCB Receptacle Right Angle";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-06062020-068934";"";

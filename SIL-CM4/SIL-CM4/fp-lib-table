@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "LOGO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO/Logo.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+04-02 08:46:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'darwin'
+04-02 08:46:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+04-02 08:46:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.0-0)
+04-02 08:46:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.3
+04-02 08:46:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x7fa4591bd940>
