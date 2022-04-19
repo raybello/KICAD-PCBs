@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/Users/ray/GitHub/KICAD-PCBs/SIL-CM4/SIL-CM4/SIL-CM4.kicad_sch</source>
-    <date>Monday, April 11, 2022 at 09:55:45 pm</date>
-    <tool>Eeschema (6.0.0-0)</tool>
+    <source>C:\Users\bello\Documents\GitHub\KICAD-PCBs\SIL-CM4\SIL-CM4\SIL-CM4.kicad_sch</source>
+    <date>4/19/2022 2:46:23 PM</date>
+    <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -201,30 +201,6 @@
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
       <tstamps>a7432ffa-bd65-4ca7-b691-2f554ae4ee6c</tstamps>
     </comp>
-    <comp ref="C15">
-      <value>22uF</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf</datasheet>
-      <fields>
-        <field name="Field4">Farnell</field>
-        <field name="Field5">2611911</field>
-        <field name="Field6">RM EMK105 B7104KV-F</field>
-        <field name="Field7">TAIYO YUDEN EUROPE GMBH</field>
-        <field name="Field8">110091611</field>
-        <field name="Part Description">	0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Field4" value="Farnell"/>
-      <property name="Field5" value="2611911"/>
-      <property name="Field6" value="RM EMK105 B7104KV-F"/>
-      <property name="Field7" value="TAIYO YUDEN EUROPE GMBH"/>
-      <property name="Part Description" value="&#x9;0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"/>
-      <property name="Field8" value="110091611"/>
-      <property name="Sheetname" value="SIL-Motherboard"/>
-      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
-      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
-      <tstamps>79959ef0-dd63-4583-aace-4608e224238f</tstamps>
-    </comp>
     <comp ref="C16">
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
@@ -297,6 +273,24 @@
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
       <tstamps>7976da0d-1bd4-47e0-ad0e-411c82a3eddb</tstamps>
     </comp>
+    <comp ref="C24">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>ec84a6d8-595f-4d17-8b37-03cb24382a78</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>6b39715d-3db6-482f-9fce-3f59abf7ecd9</tstamps>
+    </comp>
     <comp ref="C26">
       <value>2.2nF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
@@ -315,47 +309,23 @@
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
       <tstamps>6e901f8d-de31-4712-9607-3a9979e49550</tstamps>
     </comp>
-    <comp ref="C36">
-      <value>22uF</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Sheetname" value="SIL-Motherboard"/>
-      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
-      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
-      <tstamps>84ef311b-bb06-4f2b-9eda-6d0bec839e6d</tstamps>
-    </comp>
-    <comp ref="C37">
-      <value>47nF</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Sheetname" value="SIL-Motherboard"/>
-      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
-      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
-      <tstamps>c851edb9-7dae-482d-b4d6-cbd2b43098d9</tstamps>
-    </comp>
-    <comp ref="C38">
+    <comp ref="C28">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
-      <datasheet>https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01.pdf</datasheet>
-      <fields>
-        <field name="Field4">Farnell</field>
-        <field name="Field5">2611911</field>
-        <field name="Field6">RM EMK105 B7104KV-F</field>
-        <field name="Field7">TAIYO YUDEN EUROPE GMBH</field>
-        <field name="Field8">110091611</field>
-        <field name="Part Description">	0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Field4" value="Farnell"/>
-      <property name="Field5" value="2611911"/>
-      <property name="Field6" value="RM EMK105 B7104KV-F"/>
-      <property name="Field7" value="TAIYO YUDEN EUROPE GMBH"/>
-      <property name="Part Description" value="&#x9;0.1uF 10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"/>
-      <property name="Field8" value="110091611"/>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value="SIL-Motherboard"/>
       <property name="Sheetfile" value="Motherboard.kicad_sch"/>
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
-      <tstamps>a780de20-fb69-42eb-abbb-8eb75def6e42</tstamps>
+      <tstamps>44e9ddca-5c57-46e5-882b-4d2cf3b741e3</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>120uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>b4fcfb1b-7049-4f5b-9279-5fe73d585dae</tstamps>
     </comp>
     <comp ref="D1">
       <value>MMBZ5242B</value>
@@ -771,6 +741,30 @@
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
       <tstamps>e8860e91-3268-4c5c-928a-cb0f3e44aa8e</tstamps>
     </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf</datasheet>
+      <fields>
+        <field name="Field4">Farnell</field>
+        <field name="Field5">9239278</field>
+        <field name="Field6">RK73G1ETQTP2201D         </field>
+        <field name="Field7">KOA EUROPE GMBH</field>
+        <field name="Field8">120889581</field>
+        <field name="Part Description">Resistor 2.2K M1005 1% 63mW</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Field4" value="Farnell"/>
+      <property name="Field5" value="9239278"/>
+      <property name="Field7" value="KOA EUROPE GMBH"/>
+      <property name="Field6" value="RK73G1ETQTP2201D         "/>
+      <property name="Part Description" value="Resistor 2.2K M1005 1% 63mW"/>
+      <property name="Field8" value="120889581"/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>3b6d8512-1f30-4c97-aa76-6b2e43faa5bc</tstamps>
+    </comp>
     <comp ref="R8">
       <value>12K 1%</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
@@ -792,30 +786,6 @@
       <property name="Sheetfile" value="Motherboard.kicad_sch"/>
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
       <tstamps>60df16c4-c598-48da-b53d-376464fd90ab</tstamps>
-    </comp>
-    <comp ref="R11">
-      <value>68K</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
-      <datasheet>https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/mcr-e.pdf</datasheet>
-      <fields>
-        <field name="Field4">Farnell</field>
-        <field name="Field5">9239278</field>
-        <field name="Field6">RK73G1ETQTP2201D         </field>
-        <field name="Field7">KOA EUROPE GMBH</field>
-        <field name="Field8">120889581</field>
-        <field name="Part Description">Resistor 2.2K M1005 1% 63mW</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="Field4" value="Farnell"/>
-      <property name="Field5" value="9239278"/>
-      <property name="Field7" value="KOA EUROPE GMBH"/>
-      <property name="Field6" value="RK73G1ETQTP2201D         "/>
-      <property name="Part Description" value="Resistor 2.2K M1005 1% 63mW"/>
-      <property name="Field8" value="120889581"/>
-      <property name="Sheetname" value="SIL-Motherboard"/>
-      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
-      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
-      <tstamps>f41a46b3-48c9-454c-baed-b931b260a3be</tstamps>
     </comp>
     <comp ref="R13">
       <value>1K</value>
@@ -970,20 +940,6 @@
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
       <tstamps>b0959348-4720-424f-9265-656f8b8d4692</tstamps>
     </comp>
-    <comp ref="U4">
-      <value>MPQ5071</value>
-      <footprint>Package_DFN_QFN:QFN-12_EP_2x2_Pitch0.4mm</footprint>
-      <datasheet>https://www.digikey.ca/en/products/detail/monolithic-power-systems-inc/MPQ5071GG-AEC1-Z/15648584</datasheet>
-      <fields>
-        <field name="LCSC">Digikey MPQ5071GG-AEC1-Z</field>
-      </fields>
-      <libsource lib="" part="MPQ5071_1" description=""/>
-      <property name="LCSC" value="Digikey MPQ5071GG-AEC1-Z"/>
-      <property name="Sheetname" value="SIL-Motherboard"/>
-      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
-      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
-      <tstamps>d4c7ff4e-00a2-462b-993e-22853f9f3ff3</tstamps>
-    </comp>
     <comp ref="U5">
       <value>AP2822CKATR-G1</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
@@ -1006,6 +962,15 @@
       <property name="Sheetfile" value="Motherboard.kicad_sch"/>
       <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
       <tstamps>71e49205-83e9-4ff7-b43c-b3d21533851f</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>AP2141D_(Active_Low)</value>
+      <footprint>Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm</footprint>
+      <libsource lib="Regulator_Current" part="AP2141D_(Active_Low)" description=""/>
+      <property name="Sheetname" value="SIL-Motherboard"/>
+      <property name="Sheetfile" value="Motherboard.kicad_sch"/>
+      <sheetpath names="/SIL-Motherboard/" tstamps="/650431de-bff0-4790-8a48-6ae8a8d46cda/"/>
+      <tstamps>39806158-0f9e-47da-8862-83d814d27a36</tstamps>
     </comp>
     <comp ref="U8">
       <value>74LVC1G07</value>
@@ -1078,22 +1043,6 @@
         <pin num="8" name="HSD1-" type="bidirectional"/>
         <pin num="9" name="OE" type="bidirectional"/>
         <pin num="10" name="VCC" type="input"/>
-      </pins>
-    </libpart>
-    <libpart lib="" part="MPQ5071_1">
-      <fields>
-        <field name="Reference">U</field>
-        <field name="Value">MPQ5071_1</field>
-      </fields>
-      <pins>
-        <pin num="1" name="EN" type="input"/>
-        <pin num="2" name="GND" type="output"/>
-        <pin num="3" name="VCC" type="input"/>
-        <pin num="4" name="ILIM" type="bidirectional"/>
-        <pin num="5" name="SS" type="bidirectional"/>
-        <pin num="6" name="VIN" type="input"/>
-        <pin num="9" name="VOUT" type="output"/>
-        <pin num="12" name="PG" type="output"/>
       </pins>
     </libpart>
     <libpart lib="74xGxx" part="74LVC1G07">
@@ -1889,6 +1838,22 @@
         <pin num="5" name="VOUT" type="power_in"/>
       </pins>
     </libpart>
+    <libpart lib="Regulator_Current" part="AP2141D_(Active_Low)">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2141D_(Active_Low)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="IN" type="input"/>
+        <pin num="3" name="IN" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="FLG" type="input"/>
+        <pin num="6" name="OUT" type="input"/>
+        <pin num="7" name="OUT" type="input"/>
+        <pin num="8" name="NC" type="input"/>
+      </pins>
+    </libpart>
     <libpart lib="Regulator_Linear" part="LD1117S33TR_SOT223">
       <description>800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223</description>
       <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</docs>
@@ -1995,49 +1960,52 @@
   </libparts>
   <libraries>
     <library logical="74xGxx">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//74xGxx.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/74xGxx.kicad_sym</uri>
     </library>
     <library logical="CM4IO">
-      <uri>/Users/ray/GitHub/KICAD-PCBs/SIL-CM4/SIL-CM4/CM4IO/CM4IO.kicad_sym</uri>
+      <uri>C:\Users\bello\Documents\GitHub\KICAD-PCBs\SIL-CM4\SIL-CM4/CM4IO/CM4IO.kicad_sym</uri>
     </library>
     <library logical="Connector">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
     <library logical="Diode">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Diode.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
     </library>
     <library logical="Interface_USB">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface_USB.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_USB.kicad_sym</uri>
     </library>
     <library logical="Jumper">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Jumper.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
     </library>
     <library logical="Mechanical">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
     </library>
     <library logical="Power_Management">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Power_Management.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Power_Management.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Current">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Current.kicad_sym</uri>
     </library>
     <library logical="Regulator_Linear">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Linear.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
     </library>
     <library logical="Regulator_Switching">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Regulator_Switching.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
     </library>
     <library logical="Sensor_Motion">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Sensor_Motion.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Sensor_Motion.kicad_sym</uri>
     </library>
     <library logical="Switch">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Switch.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
     </library>
     <library logical="Transistor_FET">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Transistor_FET.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -2433,10 +2401,12 @@
       <node ref="Module1" pin="145" pinfunction="HDMI1_SDA" pintype="bidirectional"/>
     </net>
     <net code="98" name="/SIL-Motherboard/HDMI_5v">
-      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
       <node ref="J7" pin="18" pinfunction="+5V" pintype="power_in"/>
       <node ref="J8" pin="18" pinfunction="+5V" pintype="power_in"/>
-      <node ref="U4" pin="9" pinfunction="VOUT" pintype="output"/>
+      <node ref="U7" pin="6" pinfunction="OUT" pintype="input"/>
+      <node ref="U7" pin="7" pinfunction="OUT" pintype="input"/>
     </net>
     <net code="99" name="/SIL-Motherboard/HSD1+">
       <node ref="U3" pin="16" pinfunction="DPU" pintype="bidirectional"/>
@@ -2641,10 +2611,10 @@
       <node ref="Module1" pin="93" pinfunction="nRPIBOOT" pintype="input"/>
     </net>
     <net code="152" name="5v">
-      <node ref="C15" pin="2" pintype="passive"/>
       <node ref="C16" pin="1" pintype="passive"/>
       <node ref="C19" pin="2" pintype="passive"/>
-      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
@@ -2660,14 +2630,14 @@
       <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="L1" pin="2" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
       <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
       <node ref="U3" pin="20" pinfunction="VDD5" pintype="power_in"/>
-      <node ref="U4" pin="1" pinfunction="EN" pintype="input"/>
-      <node ref="U4" pin="3" pinfunction="VCC" pintype="input"/>
-      <node ref="U4" pin="6" pinfunction="VIN" pintype="input"/>
       <node ref="U6" pin="10" pinfunction="VCC" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="IN" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="IN" pintype="input"/>
       <node ref="U8" pin="5" pinfunction="VCC" pintype="power_in"/>
       <node ref="U9" pin="5" pinfunction="VCC" pintype="power_in"/>
     </net>
@@ -2682,7 +2652,6 @@
       <node ref="C12" pin="1" pintype="passive"/>
       <node ref="C13" pin="2" pintype="passive"/>
       <node ref="C14" pin="1" pintype="passive"/>
-      <node ref="C15" pin="1" pintype="passive"/>
       <node ref="C16" pin="2" pintype="passive"/>
       <node ref="C17" pin="2" pintype="passive"/>
       <node ref="C18" pin="2" pintype="passive"/>
@@ -2691,12 +2660,13 @@
       <node ref="C21" pin="1" pintype="passive"/>
       <node ref="C22" pin="1" pintype="passive"/>
       <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
       <node ref="C26" pin="2" pintype="passive"/>
       <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
-      <node ref="C36" pin="2" pintype="passive"/>
-      <node ref="C37" pin="1" pintype="passive"/>
-      <node ref="C38" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
@@ -2807,7 +2777,6 @@
       <node ref="Module1" pin="8" pinfunction="GND" pintype="power_in"/>
       <node ref="Module1" pin="98" pinfunction="GND" pintype="power_in"/>
       <node ref="R1" pin="2" pintype="passive"/>
-      <node ref="R11" pin="2" pintype="passive"/>
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="R19" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
@@ -2819,10 +2788,11 @@
       <node ref="U2" pin="7" pinfunction="BOOT" pintype="input"/>
       <node ref="U2" pin="9" pinfunction="AGND" pintype="power_in"/>
       <node ref="U3" pin="1" pinfunction="VSS" pintype="power_in"/>
-      <node ref="U4" pin="2" pinfunction="GND" pintype="output"/>
       <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="U6" pin="5" pinfunction="GND" pintype="power_in"/>
       <node ref="U6" pin="9" pinfunction="OE" pintype="bidirectional"/>
+      <node ref="U7" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U7" pin="4" pinfunction="EN" pintype="input"/>
       <node ref="U8" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="U9" pin="3" pinfunction="GND" pintype="power_in"/>
     </net>
@@ -2864,128 +2834,124 @@
       <node ref="C27" pin="1" pintype="passive"/>
       <node ref="U14" pin="10" pinfunction="REGOUT" pintype="passive"/>
     </net>
-    <net code="163" name="Net-(C37-Pad2)">
-      <node ref="C37" pin="2" pintype="passive"/>
-      <node ref="U4" pin="5" pinfunction="SS" pintype="bidirectional"/>
-    </net>
-    <net code="164" name="Net-(D3-Pad1)">
+    <net code="163" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="165" name="Net-(D4-Pad1)">
+    <net code="164" name="Net-(D4-Pad1)">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R13" pin="1" pintype="passive"/>
       <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="166" name="Net-(J5-Pad1)">
+    <net code="165" name="Net-(J5-Pad1)">
       <node ref="J5" pin="1" pinfunction="VBUS" pintype="power_out"/>
       <node ref="R18" pin="1" pintype="passive"/>
     </net>
-    <net code="167" name="Net-(J11-Pad13)">
+    <net code="166" name="Net-(J11-Pad13)">
       <node ref="J11" pin="13" pinfunction="Pin_13" pintype="passive"/>
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U9" pin="4" pintype="open_collector"/>
     </net>
-    <net code="168" name="Net-(Module1-Pad21)">
+    <net code="167" name="Net-(Module1-Pad21)">
       <node ref="Module1" pin="21" pinfunction="PI_nLED_Activity" pintype="open_collector"/>
       <node ref="R5" pin="2" pintype="passive"/>
     </net>
-    <net code="169" name="Net-(R3-Pad1)">
+    <net code="168" name="Net-(R3-Pad1)">
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="PG" pintype="open_collector"/>
     </net>
-    <net code="170" name="Net-(R11-Pad1)">
-      <node ref="R11" pin="1" pintype="passive"/>
-      <node ref="U4" pin="4" pinfunction="ILIM" pintype="bidirectional"/>
+    <net code="169" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="FLG" pintype="input"/>
     </net>
-    <net code="171" name="Net-(R13-Pad2)">
+    <net code="170" name="Net-(R13-Pad2)">
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="U8" pin="4" pintype="open_collector"/>
     </net>
-    <net code="172" name="Net-(R15-Pad1)">
+    <net code="171" name="Net-(R15-Pad1)">
       <node ref="R15" pin="1" pintype="passive"/>
       <node ref="U3" pin="14" pinfunction="REXT" pintype="passive"/>
     </net>
-    <net code="173" name="unconnected-(J6-Pad2)">
+    <net code="172" name="unconnected-(J6-Pad2)">
       <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
     </net>
-    <net code="174" name="unconnected-(J6-Pad4)">
+    <net code="173" name="unconnected-(J6-Pad4)">
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
     </net>
-    <net code="175" name="unconnected-(J7-Pad14)">
+    <net code="174" name="unconnected-(J7-Pad14)">
       <node ref="J7" pin="14" pinfunction="UTILITY/HEAC+" pintype="passive+no_connect"/>
     </net>
-    <net code="176" name="unconnected-(J8-Pad14)">
+    <net code="175" name="unconnected-(J8-Pad14)">
       <node ref="J8" pin="14" pinfunction="UTILITY/HEAC+" pintype="passive+no_connect"/>
     </net>
-    <net code="177" name="unconnected-(J9-Pad2)">
+    <net code="176" name="unconnected-(J9-Pad2)">
       <node ref="J9" pin="2" pinfunction="D-" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="178" name="unconnected-(J9-Pad3)">
+    <net code="177" name="unconnected-(J9-Pad3)">
       <node ref="J9" pin="3" pinfunction="D+" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="179" name="unconnected-(J9-Pad4)">
+    <net code="178" name="unconnected-(J9-Pad4)">
       <node ref="J9" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
     </net>
-    <net code="180" name="unconnected-(Module1-Pad19)">
+    <net code="179" name="unconnected-(Module1-Pad19)">
       <node ref="Module1" pin="19" pinfunction="Ethernet_nLED1(3.3v)" pintype="output+no_connect"/>
     </net>
-    <net code="181" name="unconnected-(Module1-Pad64)">
+    <net code="180" name="unconnected-(Module1-Pad64)">
       <node ref="Module1" pin="64" pinfunction="SD_DAT5" pintype="passive+no_connect"/>
     </net>
-    <net code="182" name="unconnected-(Module1-Pad68)">
+    <net code="181" name="unconnected-(Module1-Pad68)">
       <node ref="Module1" pin="68" pinfunction="SD_DAT4" pintype="passive+no_connect"/>
     </net>
-    <net code="183" name="unconnected-(Module1-Pad70)">
+    <net code="182" name="unconnected-(Module1-Pad70)">
       <node ref="Module1" pin="70" pinfunction="SD_DAT7" pintype="passive+no_connect"/>
     </net>
-    <net code="184" name="unconnected-(Module1-Pad72)">
+    <net code="183" name="unconnected-(Module1-Pad72)">
       <node ref="Module1" pin="72" pinfunction="SD_DAT6" pintype="passive+no_connect"/>
     </net>
-    <net code="185" name="unconnected-(Module1-Pad73)">
+    <net code="184" name="unconnected-(Module1-Pad73)">
       <node ref="Module1" pin="73" pinfunction="SD_VDD_Override" pintype="input+no_connect"/>
     </net>
-    <net code="186" name="unconnected-(Module1-Pad104)">
+    <net code="185" name="unconnected-(Module1-Pad104)">
       <node ref="Module1" pin="104" pinfunction="Reserved" pintype="passive+no_connect"/>
     </net>
-    <net code="187" name="unconnected-(Module1-Pad106)">
+    <net code="186" name="unconnected-(Module1-Pad106)">
       <node ref="Module1" pin="106" pinfunction="Reserved" pintype="passive+no_connect"/>
     </net>
-    <net code="188" name="unconnected-(U2-Pad3)">
+    <net code="187" name="unconnected-(U2-Pad3)">
       <node ref="U2" pin="3" pinfunction="EN" pintype="input+no_connect"/>
     </net>
-    <net code="189" name="unconnected-(U3-Pad22)">
+    <net code="188" name="unconnected-(U3-Pad22)">
       <node ref="U3" pin="22" pinfunction="DRV" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="190" name="unconnected-(U3-Pad23)">
+    <net code="189" name="unconnected-(U3-Pad23)">
       <node ref="U3" pin="23" pinfunction="LED1/EESCL" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="191" name="unconnected-(U3-Pad24)">
+    <net code="190" name="unconnected-(U3-Pad24)">
       <node ref="U3" pin="24" pinfunction="LED2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="192" name="unconnected-(U3-Pad25)">
+    <net code="191" name="unconnected-(U3-Pad25)">
       <node ref="U3" pin="25" pinfunction="PWRJ" pintype="output+no_connect"/>
     </net>
-    <net code="193" name="unconnected-(U3-Pad27)">
+    <net code="192" name="unconnected-(U3-Pad27)">
       <node ref="U3" pin="27" pinfunction="TESTJ/EESDA" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="194" name="unconnected-(U4-Pad12)">
-      <node ref="U4" pin="12" pinfunction="PG" pintype="output+no_connect"/>
-    </net>
-    <net code="195" name="unconnected-(U5-Pad3)">
+    <net code="193" name="unconnected-(U5-Pad3)">
       <node ref="U5" pin="3" pinfunction="~{FLG}" pintype="open_collector+no_connect"/>
     </net>
-    <net code="196" name="unconnected-(U14-Pad6)">
+    <net code="194" name="unconnected-(U7-Pad8)">
+      <node ref="U7" pin="8" pinfunction="NC" pintype="input+no_connect"/>
+    </net>
+    <net code="195" name="unconnected-(U14-Pad6)">
       <node ref="U14" pin="6" pinfunction="AUX_SDA" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="197" name="unconnected-(U14-Pad7)">
+    <net code="196" name="unconnected-(U14-Pad7)">
       <node ref="U14" pin="7" pinfunction="AUX_SCL" pintype="output+no_connect"/>
     </net>
-    <net code="198" name="unconnected-(U14-Pad9)">
+    <net code="197" name="unconnected-(U14-Pad9)">
       <node ref="U14" pin="9" pinfunction="AD0" pintype="input+no_connect"/>
     </net>
-    <net code="199" name="unconnected-(U14-Pad12)">
+    <net code="198" name="unconnected-(U14-Pad12)">
       <node ref="U14" pin="12" pinfunction="INT" pintype="output+no_connect"/>
     </net>
   </nets>
