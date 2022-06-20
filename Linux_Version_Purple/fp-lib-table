@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "MCIMX6Y2CVM08AB")(type "KiCad")(uri "${KIPRJMOD}/MCIMX6Y2CVM08AB/footprints.pretty")(options "")(descr ""))
+  (lib (name "SODIMM-200")(type "KiCad")(uri "${KIPRJMOD}/SODIMM.pretty")(options "")(descr ""))
+  (lib (name "Diodes-External")(type "KiCad")(uri "${KIPRJMOD}/Diodes.pretty")(options "")(descr ""))
+  (lib (name "MT41K256M16TW-107_P")(type "KiCad")(uri "${KIPRJMOD}/MT41K256M16TW-107_P/BGA96C80P9X16_1400X800X120.pretty")(options "")(descr ""))
+)

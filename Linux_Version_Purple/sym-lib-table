@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MCIMX6Y2CVM08AB")(type "Legacy")(uri "${KIPRJMOD}/MCIMX6Y2CVM08AB/symbols2.lib")(options "")(descr ""))
+  (lib (name "MT41K256M16TW-107_P")(type "KiCad")(uri "${KIPRJMOD}/MT41K256M16TW-107_P/MT41K256M16TW-107_P.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 7745ae53-2db5-46b5-a486-e19c0557578e)
+
+  (paper "A1")
+
+  (lib_symbols
+  )
+
+
+  (text "i.MX6ULL CPU" (at 723.9 565.15 0)
+    (effects (font (size 8 8) (thickness 1.4) bold) (justify left bottom))
+    (uuid dbd33a6b-f620-47e1-9a71-ede6c33ccfaa)
+  )
+)

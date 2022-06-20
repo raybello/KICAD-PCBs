@@ -49,7 +49,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|262075001|120975001|00000000-0000-0000-0000-000061649486|00000000-0000-0000-0000-00006164db22",
+        "courtyards_overlap|262824999|86950001|00000000-0000-0000-0000-00006164c931|00000000-0000-0000-0000-000061661208",
+        "courtyards_overlap|266312169|41165001|68a3ac6c-465f-4210-86fa-07409146a02b|5f23ccf3-ec1a-4dd1-8f0a-0430bcbee28b",
+        "malformed_courtyard|189784826|52341559|00000000-0000-0000-0000-00006164070f|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -424,6 +429,15 @@
       "version": 1
     },
     "net_format_name": "Pcbnew",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
