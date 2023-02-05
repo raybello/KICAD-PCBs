@@ -1,0 +1,531 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title "Flight Control Computer"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MCU_RP2040:RP2040 U?
+U 1 1 60DD7FA6
+P 3600 4300
+F 0 "U?" H 2500 2300 50  0000 C CNN
+F 1 "RP2040" H 4550 2300 50  0000 C CNN
+F 2 "RP2040_minimal:RP2040-QFN-56" H 2850 4300 50  0001 C CNN
+F 3 "" H 2850 4300 50  0001 C CNN
+	1    3600 4300
+	1    0    0    -1  
+$EndComp
+Text GLabel 4850 3000 2    50   Input ~ 0
+FC_GPIO0
+Text GLabel 4850 3100 2    50   Input ~ 0
+FC_GPIO1
+Text GLabel 4850 3200 2    50   Input ~ 0
+FC_GPIO2
+Text GLabel 4850 3300 2    50   Input ~ 0
+FC_GPIO3
+Text GLabel 4850 3400 2    50   Input ~ 0
+FC_GPIO4
+Text GLabel 4850 3500 2    50   Input ~ 0
+FC_GPIO5
+Text GLabel 4850 3600 2    50   Input ~ 0
+FC_GPIO6
+Text GLabel 4850 3700 2    50   Input ~ 0
+FC_GPIO7
+Text GLabel 4850 3800 2    50   Input ~ 0
+FC_GPIO8
+Text GLabel 4850 3900 2    50   Input ~ 0
+FC_GPIO9
+Text GLabel 4850 4000 2    50   Input ~ 0
+FC_GPIO10
+Text GLabel 4850 4100 2    50   Input ~ 0
+FC_GPIO11
+Text GLabel 4850 4200 2    50   Input ~ 0
+FC_GPIO12
+Text GLabel 4850 4300 2    50   Input ~ 0
+FC_GPIO13
+Text GLabel 4850 4400 2    50   Input ~ 0
+FC_GPIO14
+Text GLabel 4850 4500 2    50   Input ~ 0
+FC_GPIO15
+Text GLabel 4850 4600 2    50   Input ~ 0
+FC_GPIO16
+Text GLabel 4850 4700 2    50   Input ~ 0
+FC_GPIO17
+Text GLabel 4850 4800 2    50   Input ~ 0
+FC_GPIO18
+Text GLabel 4850 4900 2    50   Input ~ 0
+FC_GPIO19
+Text GLabel 4850 5000 2    50   Input ~ 0
+FC_GPIO20
+Text GLabel 4850 5100 2    50   Input ~ 0
+FC_GPIO21
+Text GLabel 4850 5200 2    50   Input ~ 0
+FC_GPIO22
+Text GLabel 4850 5300 2    50   Input ~ 0
+FC_GPIO23
+Text GLabel 4850 5400 2    50   Input ~ 0
+FC_GPIO24
+Text GLabel 4850 5500 2    50   Input ~ 0
+FC_GPIO25
+Text GLabel 4850 5700 2    50   Input ~ 0
+FC_GPIO26_ADC0
+Text GLabel 4850 5800 2    50   Input ~ 0
+FC_GPIO27_ADC1
+Text GLabel 4850 5900 2    50   Input ~ 0
+FC_GPIO28_ADC2
+Text GLabel 4850 6000 2    50   Input ~ 0
+FC_GPIO29_ADC3
+Wire Wire Line
+	4850 2700 5150 2700
+$Comp
+L Device:R_Small R?
+U 1 1 60DE83A8
+P 5250 2400
+F 0 "R?" V 5054 2400 50  0000 C CNN
+F 1 "27" V 5145 2400 50  0000 C CNN
+F 2 "" H 5250 2400 50  0001 C CNN
+F 3 "~" H 5250 2400 50  0001 C CNN
+	1    5250 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 60DE9007
+P 5250 2700
+F 0 "R?" V 5054 2700 50  0000 C CNN
+F 1 "27" V 5145 2700 50  0000 C CNN
+F 2 "" H 5250 2700 50  0001 C CNN
+F 3 "~" H 5250 2700 50  0001 C CNN
+	1    5250 2700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5150 2400 5000 2400
+Wire Wire Line
+	5000 2400 5000 2600
+Wire Wire Line
+	5000 2600 4850 2600
+Wire Wire Line
+	5350 2400 5450 2400
+Wire Wire Line
+	5350 2700 5450 2700
+Text GLabel 5450 2400 2    50   Input ~ 0
+FC_USB_D+
+Text GLabel 5450 2700 2    50   Input ~ 0
+FC_USB_D-
+Text Notes 4850 2850 0    50   ~ 0
+Ensure these resistors are close to RP2040
+Wire Wire Line
+	3250 2300 3250 2150
+Wire Wire Line
+	3250 2150 3450 2150
+Wire Wire Line
+	4250 2150 4250 2300
+Connection ~ 4250 2150
+Wire Wire Line
+	3450 2300 3450 2150
+Connection ~ 3450 2150
+Wire Wire Line
+	3450 2150 3550 2150
+Wire Wire Line
+	3550 2300 3550 2150
+Connection ~ 3550 2150
+Wire Wire Line
+	3550 2150 3650 2150
+Wire Wire Line
+	3650 2300 3650 2150
+Connection ~ 3650 2150
+Wire Wire Line
+	3650 2150 3750 2150
+Wire Wire Line
+	3750 2300 3750 2150
+Connection ~ 3750 2150
+Wire Wire Line
+	3750 2150 3850 2150
+Wire Wire Line
+	3850 2300 3850 2150
+Connection ~ 3850 2150
+Wire Wire Line
+	3850 2150 3950 2150
+Wire Wire Line
+	3950 2300 3950 2150
+Connection ~ 3950 2150
+Wire Wire Line
+	3950 2150 4100 2150
+Wire Wire Line
+	4100 2300 4100 2150
+Connection ~ 4100 2150
+Wire Wire Line
+	4100 2150 4250 2150
+Wire Wire Line
+	4250 2000 4450 2000
+Connection ~ 4250 2000
+Wire Wire Line
+	4250 2000 4250 2150
+$Comp
+L Device:C_Small C?
+U 1 1 60DEC4CF
+P 4550 2000
+F 0 "C?" V 4779 2000 50  0000 C CNN
+F 1 "1u" V 4688 2000 50  0000 C CNN
+F 2 "" H 4550 2000 50  0001 C CNN
+F 3 "~" H 4550 2000 50  0001 C CNN
+	1    4550 2000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4650 2000 4850 2000
+$Comp
+L power:GND #PWR?
+U 1 1 60DED410
+P 4850 2000
+F 0 "#PWR?" H 4850 1750 50  0001 C CNN
+F 1 "GND" H 4855 1827 50  0000 C CNN
+F 2 "" H 4850 2000 50  0001 C CNN
+F 3 "" H 4850 2000 50  0001 C CNN
+	1    4850 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 1150 4250 1200
+$Comp
+L power:+3V3 #PWR?
+U 1 1 60DF95DF
+P 4250 1150
+F 0 "#PWR?" H 4250 1000 50  0001 C CNN
+F 1 "+3V3" H 4265 1323 50  0000 C CNN
+F 2 "" H 4250 1150 50  0001 C CNN
+F 3 "" H 4250 1150 50  0001 C CNN
+	1    4250 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 1200 4750 1200
+Connection ~ 4250 1200
+Wire Wire Line
+	4250 1200 4250 2000
+$Comp
+L Device:C_Small C?
+U 1 1 60DFA1E6
+P 5650 1400
+F 0 "C?" H 5742 1446 50  0000 L CNN
+F 1 "100n" H 5742 1355 50  0000 L CNN
+F 2 "" H 5650 1400 50  0001 C CNN
+F 3 "~" H 5650 1400 50  0001 C CNN
+	1    5650 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 60DFA34C
+P 5350 1400
+F 0 "C?" H 5442 1446 50  0000 L CNN
+F 1 "100n" H 5442 1355 50  0000 L CNN
+F 2 "" H 5350 1400 50  0001 C CNN
+F 3 "~" H 5350 1400 50  0001 C CNN
+	1    5350 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 60DFA6E9
+P 5050 1400
+F 0 "C?" H 5142 1446 50  0000 L CNN
+F 1 "100n" H 5142 1355 50  0000 L CNN
+F 2 "" H 5050 1400 50  0001 C CNN
+F 3 "~" H 5050 1400 50  0001 C CNN
+	1    5050 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 60DFAEF4
+P 4750 1400
+F 0 "C?" H 4842 1446 50  0000 L CNN
+F 1 "100n" H 4842 1355 50  0000 L CNN
+F 2 "" H 4750 1400 50  0001 C CNN
+F 3 "~" H 4750 1400 50  0001 C CNN
+	1    4750 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 1300 4750 1200
+Connection ~ 4750 1200
+Wire Wire Line
+	4750 1200 5050 1200
+Wire Wire Line
+	5050 1300 5050 1200
+Connection ~ 5050 1200
+Wire Wire Line
+	5050 1200 5350 1200
+Wire Wire Line
+	5350 1300 5350 1200
+Connection ~ 5350 1200
+Wire Wire Line
+	4750 1600 4750 1500
+Wire Wire Line
+	5350 1500 5350 1600
+Connection ~ 5350 1600
+Wire Wire Line
+	5350 1600 5050 1600
+Wire Wire Line
+	5050 1500 5050 1600
+Connection ~ 5050 1600
+Wire Wire Line
+	5050 1600 4750 1600
+Wire Wire Line
+	5650 1200 5650 1300
+Wire Wire Line
+	5350 1200 5650 1200
+Wire Wire Line
+	5650 1500 5650 1600
+Wire Wire Line
+	5350 1600 5650 1600
+$Comp
+L Device:C_Small C?
+U 1 1 60E07D11
+P 5950 1400
+F 0 "C?" H 6042 1446 50  0000 L CNN
+F 1 "100n" H 6042 1355 50  0000 L CNN
+F 2 "" H 5950 1400 50  0001 C CNN
+F 3 "~" H 5950 1400 50  0001 C CNN
+	1    5950 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 60E08123
+P 6250 1400
+F 0 "C?" H 6342 1446 50  0000 L CNN
+F 1 "100n" H 6342 1355 50  0000 L CNN
+F 2 "" H 6250 1400 50  0001 C CNN
+F 3 "~" H 6250 1400 50  0001 C CNN
+	1    6250 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 60E08645
+P 6550 1400
+F 0 "C?" H 6642 1446 50  0000 L CNN
+F 1 "100n" H 6642 1355 50  0000 L CNN
+F 2 "" H 6550 1400 50  0001 C CNN
+F 3 "~" H 6550 1400 50  0001 C CNN
+	1    6550 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 1200 5950 1200
+Connection ~ 5650 1200
+Wire Wire Line
+	6550 1600 6250 1600
+Connection ~ 5650 1600
+Wire Wire Line
+	5950 1300 5950 1200
+Connection ~ 5950 1200
+Wire Wire Line
+	5950 1200 6250 1200
+Wire Wire Line
+	6250 1300 6250 1200
+Connection ~ 6250 1200
+Wire Wire Line
+	6250 1200 6550 1200
+Wire Wire Line
+	6250 1500 6250 1600
+Connection ~ 6250 1600
+Wire Wire Line
+	6250 1600 5950 1600
+Wire Wire Line
+	5950 1500 5950 1600
+Connection ~ 5950 1600
+Wire Wire Line
+	5950 1600 5650 1600
+$Comp
+L power:GND #PWR?
+U 1 1 60E0CED9
+P 6550 1650
+F 0 "#PWR?" H 6550 1400 50  0001 C CNN
+F 1 "GND" H 6555 1477 50  0000 C CNN
+F 2 "" H 6550 1650 50  0001 C CNN
+F 3 "" H 6550 1650 50  0001 C CNN
+	1    6550 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 2300 3100 2150
+Wire Wire Line
+	3100 2150 2800 2150
+Wire Wire Line
+	2800 1150 2800 1250
+Connection ~ 2800 2150
+Wire Wire Line
+	2800 2150 2800 2300
+$Comp
+L power:+1V1 #PWR?
+U 1 1 60E10392
+P 2800 1150
+F 0 "#PWR?" H 2800 1000 50  0001 C CNN
+F 1 "+1V1" H 2815 1323 50  0000 C CNN
+F 2 "" H 2800 1150 50  0001 C CNN
+F 3 "" H 2800 1150 50  0001 C CNN
+	1    2800 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 2050 2450 2050
+Connection ~ 2800 2050
+Wire Wire Line
+	2800 2050 2800 2150
+$Comp
+L Device:C_Small C?
+U 1 1 60E11B2B
+P 2350 2050
+F 0 "C?" V 2121 2050 50  0000 C CNN
+F 1 "1u" V 2212 2050 50  0000 C CNN
+F 2 "" H 2350 2050 50  0001 C CNN
+F 3 "~" H 2350 2050 50  0001 C CNN
+	1    2350 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60E1357B
+P 2100 2100
+F 0 "#PWR?" H 2100 1850 50  0001 C CNN
+F 1 "GND" H 2105 1927 50  0000 C CNN
+F 2 "" H 2100 2100 50  0001 C CNN
+F 3 "" H 2100 2100 50  0001 C CNN
+	1    2100 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 1250 2450 1250
+Wire Wire Line
+	2100 1250 2100 1300
+Connection ~ 2800 1250
+Wire Wire Line
+	2800 1250 2800 2050
+$Comp
+L Device:C_Small C?
+U 1 1 60E14F72
+P 2100 1400
+F 0 "C?" H 2192 1446 50  0000 L CNN
+F 1 "100n" H 2192 1355 50  0000 L CNN
+F 2 "" H 2100 1400 50  0001 C CNN
+F 3 "~" H 2100 1400 50  0001 C CNN
+	1    2100 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60E16900
+P 2100 1600
+F 0 "#PWR?" H 2100 1350 50  0001 C CNN
+F 1 "GND" H 2105 1427 50  0000 C CNN
+F 2 "" H 2100 1600 50  0001 C CNN
+F 3 "" H 2100 1600 50  0001 C CNN
+	1    2100 1600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2100 1500 2100 1550
+Wire Wire Line
+	2100 1550 2450 1550
+Wire Wire Line
+	2450 1550 2450 1500
+Connection ~ 2100 1550
+Wire Wire Line
+	2100 1550 2100 1600
+$Comp
+L Device:C_Small C?
+U 1 1 60E198A5
+P 2450 1400
+F 0 "C?" H 2542 1446 50  0000 L CNN
+F 1 "100n" H 2542 1355 50  0000 L CNN
+F 2 "" H 2450 1400 50  0001 C CNN
+F 3 "~" H 2450 1400 50  0001 C CNN
+	1    2450 1400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2450 1300 2450 1250
+Connection ~ 2450 1250
+Wire Wire Line
+	2450 1250 2100 1250
+Wire Wire Line
+	2100 2050 2100 2100
+Wire Wire Line
+	2100 2050 2250 2050
+Text Notes 4650 1950 0    50   ~ 0
+Make sure this is close to pin 44 of RP2040
+Text Notes 700  2400 0    50   ~ 0
+Make sure this is close to pin 45 of RP2040
+Text GLabel 2350 3050 0    50   Input ~ 0
+FC_QSPI_SS
+Text GLabel 2350 3200 0    50   Input ~ 0
+FC_QSPI_SD0
+Text GLabel 2350 3300 0    50   Input ~ 0
+FC_QSPI_SD1
+Text GLabel 2350 3400 0    50   Input ~ 0
+FC_QSPI_SD2
+Text GLabel 2350 3500 0    50   Input ~ 0
+FC_QSPI_SD3
+Text GLabel 2350 3650 0    50   Input ~ 0
+FC_QSPI_SCLK
+Text GLabel 2350 4400 0    50   Input ~ 0
+FC_XIN
+Text GLabel 2350 4600 0    50   Input ~ 0
+FC_XOUT
+Text GLabel 2350 5100 0    50   Input ~ 0
+FC_RUN
+Text GLabel 2350 5550 0    50   Input ~ 0
+FC_SWCLK
+Text GLabel 2350 5650 0    50   Input ~ 0
+FC_SWD
+$Comp
+L power:GND #PWR?
+U 1 1 60E1F5B6
+P 3100 6400
+F 0 "#PWR?" H 3100 6150 50  0001 C CNN
+F 1 "GND" H 3105 6227 50  0000 C CNN
+F 2 "" H 3100 6400 50  0001 C CNN
+F 3 "" H 3100 6400 50  0001 C CNN
+	1    3100 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 60E1F7CF
+P 3600 6400
+F 0 "#PWR?" H 3600 6150 50  0001 C CNN
+F 1 "GND" H 3605 6227 50  0000 C CNN
+F 2 "" H 3600 6400 50  0001 C CNN
+F 3 "" H 3600 6400 50  0001 C CNN
+	1    3600 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 6300 3100 6400
+Wire Wire Line
+	3600 6300 3600 6400
+Text Notes 1350 7350 0    197  ~ 0
+Flight Control Computer (FCC)\n
+Wire Notes Line
+	7000 6500 7000 500 
+Wire Wire Line
+	6550 1200 6550 1300
+Wire Wire Line
+	6550 1500 6550 1600
+Wire Wire Line
+	6550 1600 6550 1650
+Connection ~ 6550 1600
+$EndSCHEMATC
