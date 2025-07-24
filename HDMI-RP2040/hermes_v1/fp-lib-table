@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "TPS5430DDAR")(type "KiCad")(uri "${KIPRJMOD}/ul_TPS5430DDAR/KiCAD/2021-10-11_01-01-29/footprints.pretty")(options "")(descr ""))
+  (lib (name "BMI088")(type "KiCad")(uri "${KIPRJMOD}/ul_BMI088/KiCAD/2022-10-07_21-00-20/footprints.pretty")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/CM4IO/Logo.pretty")(options "")(descr ""))
+)

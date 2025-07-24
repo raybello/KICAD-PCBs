@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 19809716804652418
+=======
+19811381995487647
+>>>>>>> ec4677840b942ec27aebfd93d53d813b0f9059d6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +17,16 @@ audio belton reverb
 0
 7
 7
+<<<<<<< HEAD
+=======
+BMI088
+BMI088
+
+
+0
+16
+16
+>>>>>>> ec4677840b942ec27aebfd93d53d813b0f9059d6
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
