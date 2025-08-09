@@ -22701,7 +22701,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 307.34 380.9999 0)
 			(effects
 				(font
@@ -22710,7 +22710,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 304.4952 383.54 0)
 			(effects
 				(font
@@ -22729,6 +22729,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 303.53 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 303.53 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 303.53 379.73 0)
 			(effects
 				(font
@@ -22777,7 +22795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 194.945 77.343 90)
 			(effects
 				(font
@@ -22801,6 +22819,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 194.945 75.565 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 194.945 75.565 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22941,6 +22977,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 153.67 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 153.67 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "46e6051b-4b53-4191-b9d9-03701c291d6b")
 		)
@@ -22984,7 +23038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 181.61 133.223 90)
 			(effects
 				(font
@@ -23008,6 +23062,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 131.445 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 181.61 131.445 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -23147,6 +23219,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 298.45 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 298.45 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "183ae31f-d883-427c-bbe0-06d99adf608d")
 		)
@@ -23190,7 +23280,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 110.49 351.79 0)
 			(effects
 				(font
@@ -23219,6 +23309,24 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 110.49 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7501578"
+			(at 110.49 351.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 110.49 351.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23355,6 +23463,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 267.97 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 267.97 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 267.97 450.85 0)
 			(effects
 				(font
@@ -23564,6 +23690,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 199.39 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 199.39 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "86f78a6c-f34d-48a5-bfbe-f29752af1e48")
 		)
@@ -23604,7 +23748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 198.12 72.898 90)
 			(effects
 				(font
@@ -23628,6 +23772,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 198.12 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 198.12 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -23692,6 +23854,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 421.64 332.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 421.64 332.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 421.64 332.74 0)
 			(effects
 				(font
@@ -23769,6 +23949,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 191.77 94.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 191.77 94.615 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "436be5c1-fc47-4907-b01f-4658e3eabeee")
 		)
@@ -23810,7 +24008,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 78.105 41.91 0)
 			(effects
 				(font
@@ -23834,6 +24032,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 78.105 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 78.105 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -23942,7 +24158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 35.56 286.258 90)
 			(effects
 				(font
@@ -23966,6 +24182,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 35.56 284.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 35.56 284.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24008,7 +24242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 85.09 185.928 90)
 			(effects
 				(font
@@ -24028,6 +24262,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 85.09 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 85.09 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 85.09 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24105,6 +24357,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 280.67 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 280.67 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4df9d821-5bd9-466f-bc89-19d0d46bc378")
 		)
@@ -24167,6 +24437,24 @@
 			)
 		)
 		(property "Description" "USB to UART master bridge, QFN-28"
+			(at 68.58 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 68.58 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 68.58 212.09 0)
 			(effects
 				(font
@@ -24593,6 +24881,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 74.93 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 74.93 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7380abcb-1e05-4a87-bd95-a03c1002695e")
 		)
@@ -24658,6 +24964,24 @@
 			)
 		)
 		(property "Description" "110A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 8mOhm Ron, TO-220AB"
+			(at 200.66 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 200.66 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 200.66 312.42 0)
 			(effects
 				(font
@@ -24803,6 +25127,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 176.53 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 176.53 469.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4846003b-12fe-4ab9-aeae-cc3b301c0031")
 		)
@@ -24891,7 +25233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 102.362 541.02 90)
 			(effects
 				(font
@@ -24910,6 +25252,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 104.14 541.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 104.14 541.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 104.14 541.02 0)
 			(effects
 				(font
@@ -24987,6 +25347,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 55.245 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 55.245 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f282d1ba-9845-4902-a49f-9f837992b526")
 		)
@@ -25055,6 +25433,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 450.85 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 450.85 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6b99866f-b2ad-4d20-983b-50e71a2a1e69")
 		)
@@ -25107,7 +25503,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 353.06 469.392 90)
 			(effects
 				(font
@@ -25127,6 +25523,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 353.06 471.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 353.06 471.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 353.06 471.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25204,6 +25618,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 124.46 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 124.46 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c25afb81-a513-4bee-89db-e881744f3e31")
 		)
@@ -25273,6 +25705,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 207.645 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 207.645 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68afcd97-3a1b-4918-98fe-190c1adc6cc5")
 		)
@@ -25320,7 +25770,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 195.58 529.2852 0)
 			(effects
 				(font
@@ -25340,6 +25790,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 199.39 528.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 199.39 528.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 199.39 528.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25388,7 +25856,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 53.34 440.69 0)
 			(effects
 				(font
@@ -25425,6 +25893,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 53.34 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 53.34 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 53.34 440.69 0)
 			(effects
 				(font
@@ -25473,7 +25959,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 35.56 265.938 90)
 			(effects
 				(font
@@ -25497,6 +25983,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 35.56 264.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 35.56 264.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25566,6 +26070,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 89.535 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 89.535 114.935 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -25677,7 +26199,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 212.09 386.08 0)
 			(effects
 				(font
@@ -25696,6 +26218,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 212.09 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 212.09 386.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 212.09 386.08 0)
 			(effects
 				(font
@@ -25747,7 +26287,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 28.702 374.65 90)
 			(effects
 				(font
@@ -25766,6 +26306,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 30.48 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 30.48 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 30.48 374.65 0)
 			(effects
 				(font
@@ -26042,6 +26600,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 430.53 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 430.53 444.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "6797c310-4748-4f81-8dcb-47e5b3672643")
 		)
@@ -26093,7 +26669,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
 			(at 140.97 262.89 0)
 			(effects
 				(font
@@ -26112,6 +26688,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 140.97 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 140.97 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 140.97 262.89 0)
 			(effects
 				(font
@@ -26261,6 +26855,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 481.33 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 481.33 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A1"
 			(uuid "126af1dc-e23e-42b8-b6c0-19ae42a13ad4")
 		)
@@ -26369,6 +26981,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 160.02 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 160.02 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "278e7b4e-81b8-4b63-88c8-a08f49e44f7d")
 		)
@@ -26410,7 +27040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 248.92 363.728 90)
 			(effects
 				(font
@@ -26430,6 +27060,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 248.92 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 248.92 361.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 248.92 361.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26704,6 +27352,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 363.22 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 363.22 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67c7e61e-7929-4611-adad-06f88d31137c")
 		)
@@ -26750,7 +27416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 19.812 374.65 90)
 			(effects
 				(font
@@ -26769,6 +27435,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 21.59 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 21.59 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 21.59 374.65 0)
 			(effects
 				(font
@@ -27112,6 +27796,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 118.11 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 118.11 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B9"
 			(uuid "2578442a-9d8d-443c-aaa3-adf3d8f57fdb")
 		)
@@ -27192,7 +27894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 248.92 391.668 90)
 			(effects
 				(font
@@ -27212,6 +27914,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 248.92 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 248.92 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 248.92 389.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27286,6 +28006,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 111.76 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 111.76 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27592,6 +28330,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 57.15 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 57.15 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "966df0a3-c4e3-4e63-a85e-47a451643dbd")
 		)
@@ -27635,7 +28391,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 181.61 125.603 90)
 			(effects
 				(font
@@ -27659,6 +28415,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 123.825 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 181.61 123.825 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27730,6 +28504,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 48.26 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 48.26 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac21eb62-f3a7-4b5f-829f-fe513b84b459")
 		)
@@ -27773,7 +28565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 296.672 158.75 90)
 			(effects
 				(font
@@ -27792,6 +28584,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 298.45 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 298.45 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 298.45 158.75 0)
 			(effects
 				(font
@@ -27870,6 +28680,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 285.75 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 285.75 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "f51213a2-fda8-4363-b2eb-335a3879de25")
 		)
@@ -27931,7 +28759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 225.552 113.03 90)
 			(effects
 				(font
@@ -27950,6 +28778,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 227.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 227.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 227.33 113.03 0)
 			(effects
 				(font
@@ -28001,7 +28847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 234.442 113.03 90)
 			(effects
 				(font
@@ -28020,6 +28866,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 236.22 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 236.22 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 236.22 113.03 0)
 			(effects
 				(font
@@ -28070,7 +28934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 140.97 280.67 0)
 			(effects
 				(font
@@ -28089,6 +28953,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 140.97 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 140.97 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 140.97 280.67 0)
 			(effects
 				(font
@@ -28232,6 +29114,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 485.14 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 485.14 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "76a7c21c-3b29-4ba5-8a8d-e4c4f1ec6463")
 		)
@@ -28297,6 +29197,24 @@
 			)
 		)
 		(property "Description" "110A Id, 55V Vds, Single N-Channel HEXFET Power MOSFET, 8mOhm Ron, TO-220AB"
+			(at 153.67 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 153.67 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 153.67 312.42 0)
 			(effects
 				(font
@@ -28381,6 +29299,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 242.57 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 242.57 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6212b16-88a9-4761-8478-3690da7633a1")
 		)
@@ -28424,7 +29360,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 85.09 184.912 90)
 			(effects
 				(font
@@ -28444,6 +29380,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 85.09 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 85.09 186.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 85.09 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28556,7 +29510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 148.59 37.338 90)
 			(effects
 				(font
@@ -28576,6 +29530,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 148.59 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 148.59 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 148.59 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28711,6 +29683,24 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
+			(at 162.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 162.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 162.56 35.56 0)
 			(effects
 				(font
@@ -29000,6 +29990,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 200.66 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 200.66 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ede15d8e-0069-4461-9480-46592d6b67f8")
 		)
@@ -29109,7 +30117,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 229.235 54.9148 0)
 			(effects
 				(font
@@ -29133,6 +30141,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 225.425 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 225.425 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -29177,7 +30203,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical"
 			(at 109.22 265.43 0)
 			(effects
 				(font
@@ -29196,6 +30222,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 109.22 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 109.22 265.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 109.22 265.43 0)
 			(effects
 				(font
@@ -29259,7 +30303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical"
 			(at 90.17 542.29 0)
 			(effects
 				(font
@@ -29278,6 +30322,24 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 90.17 542.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C118954"
+			(at 90.17 542.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 90.17 542.29 0)
 			(effects
 				(font
@@ -29395,7 +30457,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 69.85 388.112 90)
 			(effects
 				(font
@@ -29415,6 +30477,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 69.85 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 69.85 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 69.85 389.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29530,7 +30610,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 285.75 113.792 90)
 			(effects
 				(font
@@ -29550,6 +30630,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 285.75 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 285.75 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 285.75 115.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29762,6 +30860,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 242.57 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 242.57 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae7f75e8-dfeb-4732-b9dd-737e2654689e")
 		)
@@ -29893,6 +31009,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 69.85 143.51 0)
 			(effects
 				(font
@@ -30076,7 +31210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 278.892 158.75 90)
 			(effects
 				(font
@@ -30095,6 +31229,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 280.67 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 280.67 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 280.67 158.75 0)
 			(effects
 				(font
@@ -30304,6 +31456,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 88.265 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 88.265 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eba39f3a-93a6-4c91-bddd-15385a97910f")
 		)
@@ -30441,6 +31611,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 335.28 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 335.28 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "7d27bfaf-e9c6-4d4a-bd91-817a73e4da84")
 		)
@@ -30522,6 +31710,24 @@
 		)
 		(property "Description" ""
 			(at 327.66 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 327.66 316.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 327.66 316.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30636,7 +31842,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 388.62 380.9999 0)
 			(effects
 				(font
@@ -30645,7 +31851,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 385.7752 383.54 0)
 			(effects
 				(font
@@ -30664,6 +31870,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 384.81 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 384.81 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 384.81 379.73 0)
 			(effects
 				(font
@@ -30915,7 +32139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 71.882 542.29 90)
 			(effects
 				(font
@@ -30934,6 +32158,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 73.66 542.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 73.66 542.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 73.66 542.29 0)
 			(effects
 				(font
@@ -31081,6 +32323,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 200.66 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 200.66 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6f35e89e-205f-4aaf-84f4-705781504729")
 		)
@@ -31191,7 +32451,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 285.75 114.808 90)
 			(effects
 				(font
@@ -31211,6 +32471,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 285.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 285.75 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 285.75 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31354,6 +32632,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 55.88 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 55.88 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8d5b6f4-1463-42ed-a2b7-d67b3ed72f60")
 		)
@@ -31462,7 +32758,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 245.11 161.29 0)
 			(effects
 				(font
@@ -31491,6 +32787,24 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 245.11 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7501578"
+			(at 245.11 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 245.11 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31597,7 +32911,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "2.5MH 10.0A"
 			(at 283.21 317.5 90)
 			(effects
 				(font
@@ -31625,6 +32939,24 @@
 		)
 		(property "Description" "Inductor"
 			(at 283.21 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 283.21 320.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 283.21 320.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31740,7 +33072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 330.2 372.11 0)
 			(effects
 				(font
@@ -31777,6 +33109,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 330.2 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 330.2 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 330.2 372.11 0)
 			(effects
 				(font
@@ -31845,6 +33195,24 @@
 			)
 		)
 		(property "Description" "40V 1A Schottky Barrier Rectifier Diode, DO-41"
+			(at 152.4 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 152.4 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 152.4 198.12 0)
 			(effects
 				(font
@@ -31961,7 +33329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 50.4952 317.5 0)
 			(effects
 				(font
@@ -31980,6 +33348,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 49.53 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C503217"
+			(at 49.53 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 49.53 313.69 0)
 			(effects
 				(font
@@ -32051,6 +33437,24 @@
 		)
 		(property "Description" "128Mbit / 16MiB Serial Flash Memory, Standard/Dual/Quad SPI, 2.7-3.6V, SOIC-8"
 			(at 48.26 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 48.26 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 48.26 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32145,6 +33549,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 130.81 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 130.81 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "78ad912b-f69a-4726-9ceb-1dbeac4067a3")
 		)
@@ -32186,7 +33608,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 90.17 211.328 90)
 			(effects
 				(font
@@ -32206,6 +33628,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 90.17 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 90.17 209.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 90.17 209.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32254,7 +33694,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 77.47 260.858 90)
 			(effects
 				(font
@@ -32274,6 +33714,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 77.47 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 77.47 259.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 77.47 259.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32322,7 +33780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 250.19 155.702 90)
 			(effects
 				(font
@@ -32342,6 +33800,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 250.19 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 250.19 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 250.19 157.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32383,7 +33859,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF 275VAC"
+		(property "Value" "0.1uF 275VAC"
 			(at 351.79 317.4999 0)
 			(effects
 				(font
@@ -32392,7 +33868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
 			(at 348.9452 320.04 0)
 			(effects
 				(font
@@ -32411,6 +33887,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 347.98 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C600230"
+			(at 347.98 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 347.98 316.23 0)
 			(effects
 				(font
@@ -32462,7 +33956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
 			(at 46.6852 491.49 0)
 			(effects
 				(font
@@ -32481,6 +33975,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 45.72 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2843909"
+			(at 45.72 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 45.72 487.68 0)
 			(effects
 				(font
@@ -32618,6 +34130,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 120.65 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 120.65 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 120.65 39.37 0)
 			(effects
 				(font
@@ -32800,7 +34330,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 472.44 372.11 0)
 			(effects
 				(font
@@ -32820,6 +34350,24 @@
 		)
 		(property "Description" "Inductor"
 			(at 472.44 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 472.44 372.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 472.44 372.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32926,7 +34474,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 82.55 354.3299 0)
 			(effects
 				(font
@@ -32954,6 +34502,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 78.74 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 78.74 353.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 78.74 353.06 0)
 			(effects
 				(font
@@ -33031,6 +34597,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 67.31 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 67.31 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bb487e7-8475-4f49-8f18-569f947f5cff")
 		)
@@ -33090,6 +34674,24 @@
 			)
 		)
 		(property "Description" "800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 1.8V, SOT-223"
+			(at 146.05 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 146.05 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 146.05 161.29 0)
 			(effects
 				(font
@@ -33170,6 +34772,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 62.865 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 62.865 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1bb637ec-b93d-4823-9524-4f9c8b604916")
 		)
@@ -33213,7 +34833,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 503.682 448.31 90)
 			(effects
 				(font
@@ -33232,6 +34852,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 505.46 448.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 505.46 448.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 505.46 448.31 0)
 			(effects
 				(font
@@ -33280,7 +34918,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 181.61 130.683 90)
 			(effects
 				(font
@@ -33304,6 +34942,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 128.905 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 181.61 128.905 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -33413,7 +35069,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 36.322 182.88 90)
 			(effects
 				(font
@@ -33432,6 +35088,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 38.1 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 38.1 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 38.1 182.88 0)
 			(effects
 				(font
@@ -33502,6 +35176,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 421.64 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 421.64 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 421.64 391.16 0)
 			(effects
 				(font
@@ -33753,7 +35445,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 132.588 389.89 90)
 			(effects
 				(font
@@ -33772,6 +35464,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 130.81 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 130.81 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 130.81 389.89 0)
 			(effects
 				(font
@@ -33822,7 +35532,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 125.73 380.492 90)
 			(effects
 				(font
@@ -33842,6 +35552,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 125.73 382.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 125.73 382.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 125.73 382.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33910,6 +35638,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 184.15 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 184.15 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 184.15 165.1 0)
 			(effects
 				(font
@@ -33987,6 +35733,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 327.66 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 327.66 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c05d2f9a-b0de-450b-a469-92b8c2e46e87")
 		)
@@ -34056,6 +35820,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 195.58 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 195.58 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a9ab625c-7f99-4e70-a935-b304429bfa9a")
 		)
@@ -34099,7 +35881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 118.872 541.02 90)
 			(effects
 				(font
@@ -34118,6 +35900,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 120.65 541.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 120.65 541.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 120.65 541.02 0)
 			(effects
 				(font
@@ -34233,7 +36033,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 77.47 291.338 90)
 			(effects
 				(font
@@ -34253,6 +36053,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 77.47 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 77.47 289.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 77.47 289.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34301,7 +36119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0815_2038Metric"
 			(at 110.49 483.108 90)
 			(effects
 				(font
@@ -34321,6 +36139,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 110.49 481.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 110.49 481.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 110.49 481.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34369,7 +36205,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 346.71 401.828 90)
 			(effects
 				(font
@@ -34389,6 +36225,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 346.71 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 346.71 400.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 346.71 400.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34437,7 +36291,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 31.75 177.292 90)
 			(effects
 				(font
@@ -34457,6 +36311,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 31.75 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 31.75 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 31.75 179.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34571,7 +36443,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 346.71 373.888 90)
 			(effects
 				(font
@@ -34591,6 +36463,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 346.71 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 346.71 372.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 346.71 372.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34639,7 +36529,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 330.2 363.728 90)
 			(effects
 				(font
@@ -34659,6 +36549,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 330.2 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 330.2 361.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 330.2 361.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34773,7 +36681,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 330.2 400.05 0)
 			(effects
 				(font
@@ -34810,6 +36718,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 330.2 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 330.2 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 330.2 400.05 0)
 			(effects
 				(font
@@ -35127,7 +37053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 512.572 448.31 90)
 			(effects
 				(font
@@ -35146,6 +37072,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 514.35 448.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 514.35 448.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 514.35 448.31 0)
 			(effects
 				(font
@@ -35197,7 +37141,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 229.362 201.93 90)
 			(effects
 				(font
@@ -35216,6 +37160,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 231.14 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 231.14 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 231.14 201.93 0)
 			(effects
 				(font
@@ -35291,6 +37253,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 192.405 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 192.405 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -35428,6 +37408,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 278.13 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 278.13 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13055cd3-8e04-42cc-a17b-435048fd8b4a")
 		)
@@ -35472,7 +37470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 36.83 312.42 0)
 			(effects
 				(font
@@ -35491,6 +37489,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 36.83 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8269"
+			(at 36.83 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 36.83 312.42 0)
 			(effects
 				(font
@@ -35701,6 +37717,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 450.85 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 450.85 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "cd506349-9fc8-49ac-9bef-0fcd83cdbcf3")
 		)
@@ -35754,7 +37788,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 67.31 440.69 0)
 			(effects
 				(font
@@ -35791,6 +37825,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 67.31 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 67.31 440.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 67.31 440.69 0)
 			(effects
 				(font
@@ -35839,7 +37891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 177.8 163.068 90)
 			(effects
 				(font
@@ -35859,6 +37911,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 177.8 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 177.8 161.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35907,7 +37977,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 248.92 372.11 0)
 			(effects
 				(font
@@ -35944,6 +38014,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 248.92 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 248.92 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 248.92 372.11 0)
 			(effects
 				(font
@@ -36061,7 +38149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 			(at 83.5152 461.01 0)
 			(effects
 				(font
@@ -36080,6 +38168,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 82.55 457.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C503217"
+			(at 82.55 457.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 82.55 457.2 0)
 			(effects
 				(font
@@ -36356,6 +38462,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 101.6 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 101.6 379.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "6e3f620a-17c7-4c7d-86bc-8bcbc5af2048")
 		)
@@ -36468,6 +38592,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 36.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 36.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "40d5314a-3051-4d54-a774-9e8bb4854f86")
 		)
@@ -36529,6 +38671,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 170.18 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 170.18 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 170.18 165.1 0)
 			(effects
 				(font
@@ -36607,6 +38767,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 496.57 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 496.57 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f05281c0-0ea2-4f87-a4a0-0aa3e9dc112f")
 		)
@@ -36675,6 +38853,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 60.96 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8fdabe7a-b266-49cb-b3f3-4968c1aeece4")
 		)
@@ -36718,7 +38914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 238.252 201.93 90)
 			(effects
 				(font
@@ -36737,6 +38933,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 240.03 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 240.03 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 240.03 201.93 0)
 			(effects
 				(font
@@ -36786,7 +39000,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 265.43 401.828 90)
 			(effects
 				(font
@@ -36806,6 +39020,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 265.43 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 265.43 400.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 265.43 400.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36874,6 +39106,24 @@
 		)
 		(property "Description" "Temperature dependent resistor"
 			(at 204.47 452.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 204.47 452.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 204.47 452.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37119,7 +39369,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 265.43 373.888 90)
 			(effects
 				(font
@@ -37139,6 +39389,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 265.43 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 265.43 372.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 265.43 372.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37208,6 +39476,24 @@
 			)
 		)
 		(property "Description" "N-IGBT transistor, collector/gate/emitter"
+			(at 363.22 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 363.22 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 363.22 361.95 0)
 			(effects
 				(font
@@ -37319,7 +39605,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 471.17 379.7299 0)
 			(effects
 				(font
@@ -37347,6 +39633,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 467.36 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 467.36 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 467.36 378.46 0)
 			(effects
 				(font
@@ -37396,7 +39700,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0815_2038Metric"
 			(at 110.49 491.998 90)
 			(effects
 				(font
@@ -37416,6 +39720,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 110.49 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 110.49 490.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 110.49 490.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37464,7 +39786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 186.69 396.748 90)
 			(effects
 				(font
@@ -37484,6 +39806,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 186.69 394.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 186.69 394.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 186.69 394.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37560,6 +39900,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 41.91 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 41.91 74.295 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f247d9f4-9e62-47e2-9a81-cce9923a0399")
 		)
@@ -37620,6 +39978,24 @@
 			)
 		)
 		(property "Description" "Transformer, split primary, dual secondary"
+			(at 213.36 551.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 213.36 551.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 213.36 551.18 0)
 			(effects
 				(font
@@ -37816,7 +40192,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
 			(at 378.46 317.5 0)
 			(effects
 				(font
@@ -37835,6 +40211,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 378.46 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8269"
+			(at 378.46 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 378.46 317.5 0)
 			(effects
 				(font
@@ -38018,7 +40412,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 80.9752 402.59 0)
 			(effects
 				(font
@@ -38037,6 +40431,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 80.01 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2960204"
+			(at 80.01 398.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 80.01 398.78 0)
 			(effects
 				(font
@@ -38153,7 +40565,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 141.478 389.89 90)
 			(effects
 				(font
@@ -38172,6 +40584,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 139.7 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 139.7 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 139.7 389.89 0)
 			(effects
 				(font
@@ -38354,7 +40784,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 46.482 388.62 90)
 			(effects
 				(font
@@ -38373,6 +40803,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 48.26 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 48.26 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 48.26 388.62 0)
 			(effects
 				(font
@@ -38422,7 +40870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 125.73 378.968 90)
 			(effects
 				(font
@@ -38442,6 +40890,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 125.73 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 125.73 377.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 125.73 377.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38492,7 +40958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 112.7252 461.01 0)
 			(effects
 				(font
@@ -38511,6 +40977,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 111.76 457.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7499907"
+			(at 111.76 457.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 111.76 457.2 0)
 			(effects
 				(font
@@ -38588,6 +41072,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 154.94 232.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 154.94 232.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db76b353-c2b5-44e1-a4cf-cf8048b41b03")
 		)
@@ -38631,7 +41133,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 315.722 468.63 90)
 			(effects
 				(font
@@ -38650,6 +41152,24 @@
 			)
 		)
 		(property "Description" "Resistor - high current"
+			(at 317.5 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 317.5 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 317.5 468.63 0)
 			(effects
 				(font
@@ -38718,6 +41238,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 27.94 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 27.94 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 27.94 137.16 0)
 			(effects
 				(font
@@ -38834,7 +41372,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 245.11 137.16 0)
 			(effects
 				(font
@@ -38863,6 +41401,24 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 245.11 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7501578"
+			(at 245.11 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 245.11 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38911,7 +41467,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 269.24 325.4248 0)
 			(effects
 				(font
@@ -38931,6 +41487,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 265.43 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C711636"
+			(at 265.43 326.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 265.43 326.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39207,6 +41781,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 160.02 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a184ba89-162d-495e-8e89-428cd4518005")
 		)
@@ -39247,7 +41839,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 221.615 67.0052 0)
 			(effects
 				(font
@@ -39271,6 +41863,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 225.425 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 225.425 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -39314,7 +41924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 78.105 67.945 0)
 			(effects
 				(font
@@ -39334,6 +41944,24 @@
 		)
 		(property "Description" "2.0nH(0.1nH) 500mA"
 			(at 78.105 67.945 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 78.105 67.945 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 78.105 67.945 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39410,6 +42038,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 148.59 232.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 148.59 232.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14b9dfbf-4532-4f2e-8dca-300ad7602aed")
 		)
@@ -39472,6 +42118,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 317.5 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 317.5 450.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 317.5 450.85 0)
 			(effects
 				(font
@@ -39653,7 +42317,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 67.31 453.39 0)
 			(effects
 				(font
@@ -39690,6 +42354,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 67.31 453.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 67.31 453.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 67.31 453.39 0)
 			(effects
 				(font
@@ -39739,7 +42421,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 185.42 530.098 90)
 			(effects
 				(font
@@ -39759,6 +42441,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 185.42 528.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 185.42 528.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 185.42 528.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39809,7 +42509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
 			(at 68.2752 491.49 0)
 			(effects
 				(font
@@ -39828,6 +42528,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 67.31 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2843909"
+			(at 67.31 487.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 67.31 487.68 0)
 			(effects
 				(font
@@ -39876,7 +42594,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 181.61 123.063 90)
 			(effects
 				(font
@@ -39900,6 +42618,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 121.285 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 181.61 121.285 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -40169,6 +42905,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 496.57 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 496.57 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9fd4fd1e-c9eb-4967-9ee3-2ba35b513aea")
 		)
@@ -40274,7 +43028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 181.61 84.963 90)
 			(effects
 				(font
@@ -40298,6 +43052,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 83.185 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 181.61 83.185 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -40407,7 +43179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 330.2 391.668 90)
 			(effects
 				(font
@@ -40427,6 +43199,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 330.2 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 330.2 389.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 330.2 389.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40477,7 +43267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 37.592 374.65 90)
 			(effects
 				(font
@@ -40496,6 +43286,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 39.37 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 39.37 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 39.37 374.65 0)
 			(effects
 				(font
@@ -40547,7 +43355,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 37.592 388.62 90)
 			(effects
 				(font
@@ -40566,6 +43374,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 39.37 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 39.37 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 39.37 388.62 0)
 			(effects
 				(font
@@ -40675,7 +43501,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 471.17 321.3099 0)
 			(effects
 				(font
@@ -40703,6 +43529,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 467.36 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 467.36 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 467.36 320.04 0)
 			(effects
 				(font
@@ -40818,7 +43662,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 53.34 453.39 0)
 			(effects
 				(font
@@ -40855,6 +43699,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 53.34 453.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 53.34 453.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 53.34 453.39 0)
 			(effects
 				(font
@@ -40903,7 +43765,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 181.61 72.263 90)
 			(effects
 				(font
@@ -40927,6 +43789,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 70.485 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 181.61 70.485 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -41197,6 +44077,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 281.94 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 281.94 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54f73133-fc1d-411f-be7f-c848e8dbbdaa")
 		)
@@ -41240,7 +44138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 122.428 29.21 90)
 			(effects
 				(font
@@ -41260,6 +44158,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 120.65 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 120.65 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 120.65 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41308,7 +44224,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 250.19 131.572 90)
 			(effects
 				(font
@@ -41328,6 +44244,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 250.19 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 250.19 133.35 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 250.19 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41442,7 +44376,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 46.99 173.228 90)
 			(effects
 				(font
@@ -41462,6 +44396,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 46.99 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 46.99 171.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 46.99 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41529,6 +44481,24 @@
 			)
 		)
 		(property "Description" "ESD protection diode, 3.3Vrwm, SOD-923"
+			(at 88.9 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 88.9 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 88.9 95.25 0)
 			(effects
 				(font
@@ -41673,6 +44643,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 281.94 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 281.94 389.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fceb6362-23b8-4b4d-9e2e-b7eb69354ab1")
 		)
@@ -41776,7 +44764,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 63.5 543.5599 0)
 			(effects
 				(font
@@ -41804,6 +44792,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 59.69 542.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 59.69 542.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 59.69 542.29 0)
 			(effects
 				(font
@@ -41987,7 +44993,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 109.22 284.48 0)
 			(effects
 				(font
@@ -42006,6 +45012,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 109.22 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 109.22 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 109.22 284.48 0)
 			(effects
 				(font
@@ -42055,7 +45079,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 472.44 313.69 0)
 			(effects
 				(font
@@ -42075,6 +45099,24 @@
 		)
 		(property "Description" "Inductor"
 			(at 472.44 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 472.44 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 472.44 313.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42348,6 +45390,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 105.41 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 105.41 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b8a3992a-0a2c-4085-959b-6e3eb6e1874d")
 		)
@@ -42485,6 +45545,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 87.63 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 87.63 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d0a37b59-19b1-4f3b-ad62-4fe7b7b76d4e")
 		)
@@ -42528,7 +45606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm"
 			(at 139.3952 462.28 0)
 			(effects
 				(font
@@ -42547,6 +45625,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 138.43 458.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C7499907"
+			(at 138.43 458.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 138.43 458.47 0)
 			(effects
 				(font
@@ -42662,7 +45758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-15_P3.81mm_Vertical_KathodeUp"
 			(at 248.92 400.05 0)
 			(effects
 				(font
@@ -42699,6 +45795,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 248.92 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 248.92 400.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 248.92 400.05 0)
 			(effects
 				(font
@@ -42776,6 +45890,24 @@
 				)
 			)
 		)
+		(property "LCSC" ""
+			(at 180.34 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 180.34 137.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5725f05b-ca80-404b-b67d-6fc77b8d6ca4")
 		)
@@ -42819,7 +45951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 108.712 344.17 90)
 			(effects
 				(font
@@ -42838,6 +45970,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 110.49 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 110.49 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 110.49 344.17 0)
 			(effects
 				(font
@@ -42886,7 +46036,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 181.61 120.523 90)
 			(effects
 				(font
@@ -42910,6 +46060,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 181.61 118.745 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 181.61 118.745 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -43046,6 +46214,24 @@
 		)
 		(property "Description" "General Purpose NPN Transistor, 1.5A Ic, 25V Vce, SOT-23"
 			(at 91.186 282.194 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 57.15 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 57.15 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43324,6 +46510,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 120.65 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 120.65 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb354f55-5fef-4128-820a-a541505e0814")
 		)
@@ -43391,6 +46595,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "LCSC" ""
+			(at 187.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 187.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -43461,6 +46683,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be53a399-eda2-4ce1-87bc-bbad3a9ce652")
 		)
@@ -43523,6 +46763,24 @@
 			)
 		)
 		(property "Description" "Positive 1.5A 35V Linear Regulator, Fixed Output 12V, TO-220/TO-263/TO-252"
+			(at 100.33 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 100.33 447.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 100.33 447.04 0)
 			(effects
 				(font
@@ -43604,6 +46862,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" ""
+			(at 485.14 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 485.14 320.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dc71e1a4-7b5c-4bc5-a2fa-a0c1377dd773")
 		)
@@ -43647,7 +46923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 266.192 468.63 90)
 			(effects
 				(font
@@ -43666,6 +46942,24 @@
 			)
 		)
 		(property "Description" "Resistor - high current"
+			(at 267.97 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 267.97 468.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 267.97 468.63 0)
 			(effects
 				(font
@@ -43734,6 +47028,24 @@
 			)
 		)
 		(property "Description" "Single-Phase Bridge Rectifier, 420V Vrms, 4.0A If, GBU package"
+			(at 243.84 558.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 243.84 558.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
 			(at 243.84 558.8 0)
 			(effects
 				(font
@@ -43855,7 +47167,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm"
 			(at 269.24 312.7248 0)
 			(effects
 				(font
@@ -43875,6 +47187,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 265.43 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C711636"
+			(at 265.43 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser/Digikey" ""
+			(at 265.43 313.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
