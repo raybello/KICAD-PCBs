@@ -1,0 +1,89 @@
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:templates={'Black And White TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#F0F0F0', 'F.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'User.Eco1': '#000000', 'F.Silkscreen': '#000000', 'F.Fab': '#000000'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'User.Eco1': 'false', 'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false', 'F.Fab': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Black And White BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'B.Cu': '#F0F0F0', 'B.Paste': '#C4C4C4', 'Edge.Cuts': '#575757', 'B.Fab': '#000000', 'B.Silkscreen': '#000000'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'Edge.Cuts': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Cu': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Cu', 'frame': 'B.Fab', 'popups': 'Back Layer', 'layers': {'F.Fab': '#000080', 'User.Eco1': '#000080', 'Edge.Cuts': '#FF8000', 'B.Silkscreen': '#626262', 'B.Paste': '#FF8A8A', 'B.Cu': '#B3FFB3', 'B.Fab': '#000080'}, 'layers_transparency': {'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Fab': 'false', 'B.Cu': 'false', 'B.Paste': 'false', 'B.Silkscreen': 'false', 'Edge.Cuts': 'false'}, 'layers_footprint_values': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Cu': 'true'}}, 'Colored TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'User.Eco1,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Cu', 'frame': 'F.Fab', 'popups': 'Front Layer', 'layers': {'F.Cu': '#B3FFB3', 'F.Paste': '#FF8A8A', 'F.Silkscreen': '#626262', 'Edge.Cuts': '#FF8000', 'User.Eco1': '#000080', 'F.Fab': '#000080'}, 'layers_transparency': {'User.Eco1': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'User.Eco1': 'false', 'F.Fab': 'false', 'F.Silkscreen': 'false', 'F.Paste': 'false', 'F.Cu': 'false'}, 'layers_footprint_values': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'User.Eco1': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Fabrication TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,User.Comments,User.Drawings,Edge.Cuts,F.Silkscreen,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#804000', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'User.Comments': '0', 'User.Drawings': '0', 'Edge.Cuts': '0', 'F.Silkscreen': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'User.Comments': 'true', 'User.Drawings': 'true', 'Edge.Cuts': 'true', 'F.Silkscreen': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors PCB Paste TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'Edge.Cuts': '#635547', 'F.Silkscreen': '#DDDDDD', 'B.Silkscreen': '#000000', 'F.Fab': '#808080', 'F.Mask': '#D0D0D0', 'User.Comments': '#00008A', 'User.Drawings': '#EFEFBA', 'F.Cu': '#EEEEEE', 'B.Cu': '#C6C6FF', 'In30.Cu': '#000000', 'Margin': '#830000', 'F.Paste': '#400000'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'Edge.Cuts': 'false', 'F.Silkscreen': 'false', 'B.Silkscreen': 'false', 'F.Fab': 'false', 'F.Mask': 'false', 'User.Comments': 'false', 'User.Drawings': 'false', 'F.Cu': 'false', 'B.Cu': 'false', 'In30.Cu': 'false', 'Margin': 'false', 'F.Paste': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}, 'Light Colors Placement BOT': {'mirrored': True, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,B.Fab,B.Silkscreen,B.Paste,B.Mask,B.Cu', 'frame': 'Margin', 'popups': 'Back Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#808080', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#DDDD00', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#222222', 'B.Silkscreen': '#CCCCAA', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'B.Fab': '0', 'B.Silkscreen': '0', 'B.Paste': '0', 'B.Mask': '0', 'B.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'B.Fab': 'true', 'B.Silkscreen': 'true', 'B.Paste': 'true', 'B.Mask': 'true', 'B.Cu': 'true'}}, 'Light Colors Placement TOP': {'mirrored': False, 'tented': False, 'enabled_layers': 'Margin,Edge.Cuts,F.Fab,F.Silkscreen,F.Paste,F.Mask,F.Cu', 'frame': 'Margin', 'popups': 'Front Layer', 'layers': {'B.Courtyard': '#000000', 'Edge.Cuts': '#804000', 'User.Comments': '#0080FF', 'F.Fab': '#222222', 'F.Cu': '#EEEEEE', 'F.Paste': '#A8A8A8', 'F.Silkscreen': '#CCCCAA', 'Margin': '#000000', 'F.Mask': '#C0C0C0', 'B.Cu': '#EEEEEE', 'B.Fab': '#808080', 'B.Silkscreen': '#000000', 'B.Paste': '#A8A8A8', 'B.Mask': '#C0C0C0'}, 'layers_transparency': {'Margin': '0', 'Edge.Cuts': '0', 'F.Fab': '0', 'F.Silkscreen': '0', 'F.Paste': '0', 'F.Mask': '0', 'F.Cu': '0'}, 'layers_negative': {'B.Courtyard': 'false', 'Edge.Cuts': 'false', 'User.Comments': 'false', 'F.Fab': 'false', 'F.Cu': 'false', 'F.Paste': 'false', 'F.Silkscreen': 'false', 'Margin': 'false', 'F.Mask': 'false', 'B.Cu': 'false', 'B.Fab': 'false', 'B.Silkscreen': 'false', 'B.Paste': 'false', 'B.Mask': 'false'}, 'layers_footprint_values': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}, 'layers_reference_designators': {'Margin': 'true', 'Edge.Cuts': 'true', 'F.Fab': 'true', 'F.Silkscreen': 'true', 'F.Paste': 'true', 'F.Mask': 'true', 'F.Cu': 'true'}}}
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:output_path=plots
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:enabled_templates=['Black And White TOP', 'Black And White BOT']
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:disabled_templates=['Colored BOT', 'Colored TOP', 'Light Colors PCB Fabrication TOP', 'Light Colors PCB Paste TOP', 'Light Colors Placement BOT', 'Light Colors Placement TOP']
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:create_svg=False
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:del_temp_files=True
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:del_single_page_files=True
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:assembly_file_extension=__Assembly
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:page_info=VoltPak: ${template_name} - Page ${page_nr}/${total_pages}
+09-02 19:16:30 com_gitlab_dennevi_Board2Pdf.persistence 83:info_variable=4
+09-02 19:16:30 board2pdf 144:pymupdf not found, using pypdf
+09-02 19:31:09 board2pdf 31:File: /Users/raybello/Documents/KiCad/9.0/3rdparty//plugins/com_gitlab_dennevi_Board2Pdf/board2pdf_action.py	Version: 1.9.2
+09-02 19:31:17 com_github_bouni_kicad-jlcpcb-tools.library 57:partsdb_file /Users/raybello/Documents/KiCad/9.0/3rdparty/plugins/com_github_bouni_kicad-jlcpcb-tools/jlcpcb/parts-fts5.db
+09-02 19:31:17 com_github_bouni_kicad-jlcpcb-tools.library 58:sqlite.sqlite_version 3.37.2
+09-02 19:31:17 com_github_bouni_kicad-jlcpcb-tools.library 66:Data directory '/Users/raybello/Documents/KiCad/9.0/3rdparty/plugins/com_github_bouni_kicad-jlcpcb-tools/jlcpcb' does not exist and will be created.
+09-02 19:31:17 com_github_bouni_kicad-jlcpcb-tools.library 252:Create SQLite table for rotations
+09-02 19:31:17 com_github_bouni_kicad-jlcpcb-tools.mainwindow 556:JLCPCB version 2025.04.02, no parts db info found
+09-02 19:31:17 com_github_bouni_kicad-jlcpcb-tools.mainwindow 524:kicad version: 9.0.3
+09-02 19:31:20 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 1/9 (75.22 MB)
+09-02 19:31:29 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 1 downloaded successfully.
+09-02 19:31:32 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 2/9 (75.13 MB)
+09-02 19:31:40 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 2 downloaded successfully.
+09-02 19:31:43 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 3/9 (75.36 MB)
+09-02 19:31:52 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 3 downloaded successfully.
+09-02 19:31:54 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 4/9 (75.77 MB)
+09-02 19:31:57 com_github_bouni_kicad-jlcpcb-tools.library 470:Chunk 1 is incomplete, re-downloading.
+09-02 19:31:57 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 1/9 (75.22 MB)
+09-02 19:32:01 com_github_bouni_kicad-jlcpcb-tools.settings 392:True
+09-02 19:32:04 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 4 downloaded successfully.
+09-02 19:32:07 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 5/9 (75.66 MB)
+09-02 19:32:07 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 1 downloaded successfully.
+09-02 19:32:07 com_github_bouni_kicad-jlcpcb-tools.library 470:Chunk 2 is incomplete, re-downloading.
+09-02 19:32:07 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 2/9 (75.13 MB)
+09-02 19:32:16 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 5 downloaded successfully.
+09-02 19:32:17 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 2 downloaded successfully.
+09-02 19:32:17 com_github_bouni_kicad-jlcpcb-tools.library 470:Chunk 3 is incomplete, re-downloading.
+09-02 19:32:17 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 3/9 (75.36 MB)
+09-02 19:32:19 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 6/9 (75.74 MB)
+09-02 19:32:27 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 3 downloaded successfully.
+09-02 19:32:29 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 6 downloaded successfully.
+09-02 19:32:30 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 4/9 (75.77 MB)
+09-02 19:32:31 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 7/9 (75.60 MB)
+09-02 19:32:40 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 4 downloaded successfully.
+09-02 19:32:40 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 5/9 (75.66 MB)
+09-02 19:32:42 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 7 downloaded successfully.
+09-02 19:32:44 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 8/9 (75.40 MB)
+09-02 19:32:50 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 5 downloaded successfully.
+09-02 19:32:53 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 6/9 (75.74 MB)
+09-02 19:32:54 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 8 downloaded successfully.
+09-02 19:32:54 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 9/9 (11.85 MB)
+09-02 19:32:58 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 9 downloaded successfully.
+09-02 19:32:58 com_github_bouni_kicad-jlcpcb-tools.library 542:Combining and extracting zip part files...
+09-02 19:32:58 com_github_bouni_kicad-jlcpcb-tools.unzip_parts 22:Combine zip chunks
+09-02 19:32:58 com_github_bouni_kicad-jlcpcb-tools.unzip_parts 54:Extract zip file
+09-02 19:33:03 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 6 downloaded successfully.
+09-02 19:33:03 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 7/9 (75.60 MB)
+09-02 19:33:11 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 7 downloaded successfully.
+09-02 19:33:12 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 8/9 (75.40 MB)
+09-02 19:33:20 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 8 downloaded successfully.
+09-02 19:33:20 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 9/9 (11.85 MB)
+09-02 19:33:23 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 9 downloaded successfully.
+09-02 19:33:23 com_github_bouni_kicad-jlcpcb-tools.library 542:Combining and extracting zip part files...
+09-02 19:33:23 com_github_bouni_kicad-jlcpcb-tools.unzip_parts 22:Combine zip chunks
+09-02 19:33:23 com_github_bouni_kicad-jlcpcb-tools.unzip_parts 54:Extract zip file
+09-02 19:33:30 com_github_bouni_kicad-jlcpcb-tools.mainwindow 528:quit_dialog()
+09-02 19:33:33 com_github_bouni_kicad-jlcpcb-tools.library 57:partsdb_file /Users/raybello/Documents/KiCad/9.0/3rdparty/plugins/com_github_bouni_kicad-jlcpcb-tools/jlcpcb/parts-fts5.db
+09-02 19:33:33 com_github_bouni_kicad-jlcpcb-tools.library 58:sqlite.sqlite_version 3.37.2
+09-02 19:33:33 com_github_bouni_kicad-jlcpcb-tools.library 71:Data directory '/Users/raybello/Documents/KiCad/9.0/3rdparty/plugins/com_github_bouni_kicad-jlcpcb-tools/jlcpcb' exists, not creating
+09-02 19:33:33 com_github_bouni_kicad-jlcpcb-tools.mainwindow 556:JLCPCB version 2025.04.02, no parts db info found
+09-02 19:33:33 com_github_bouni_kicad-jlcpcb-tools.mainwindow 524:kicad version: 9.0.3
+09-02 19:33:33 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 1/9 (75.22 MB)
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Top layer
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Silk top
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Mask top
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Inner layer 1
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Inner layer 2
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Bottom layer
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Silk bottom
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Mask bottom
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 228:Successfully plotted Edges
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 243:Finished generating Excellon files
+09-02 19:33:37 com_github_bouni_kicad-jlcpcb-tools.fabrication 260:Finished generating ZIP file /Users/raybello/Github/KICAD-PCBs/VoltPak-1000/VolPak-1000/jlcpcb/production_files/GERBER-VolPak-1000.zip
+09-02 19:33:42 com_github_bouni_kicad-jlcpcb-tools.library 519:Chunk 1 downloaded successfully.
+09-02 19:33:42 com_github_bouni_kicad-jlcpcb-tools.library 509:Downloading chunk 2/9 (75.13 MB)
+09-02 19:33:44 com_github_bouni_kicad-jlcpcb-tools.settings 392:True
+09-02 19:33:49 com_github_bouni_kicad-jlcpcb-tools.mainwindow 528:quit_dialog()
+09-02 19:37:28 board2pdf 31:File: /Users/raybello/Documents/KiCad/9.0/3rdparty//plugins/com_gitlab_dennevi_Board2Pdf/board2pdf_action.py	Version: 1.9.2
+09-02 19:40:47 board2pdf 31:File: /Users/raybello/Documents/KiCad/9.0/3rdparty//plugins/com_gitlab_dennevi_Board2Pdf/board2pdf_action.py	Version: 1.9.2
+09-02 19:43:58 board2pdf 31:File: /Users/raybello/Documents/KiCad/9.0/3rdparty//plugins/com_gitlab_dennevi_Board2Pdf/board2pdf_action.py	Version: 1.9.2

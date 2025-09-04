@@ -125,38 +125,6 @@
           ""
         ],
         [
-          "hole_clearance|169500000|144095000|84158c5c-90ca-4ce0-a212-51c6620afb42|37b78820-356c-43ff-8aca-66df4367caa9",
-          ""
-        ],
-        [
-          "hole_clearance|169500000|144095000|84158c5c-90ca-4ce0-a212-51c6620afb42|8c3b7335-5d44-4100-a354-29fdd479e69a",
-          ""
-        ],
-        [
-          "hole_clearance|169700000|144095000|84158c5c-90ca-4ce0-a212-51c6620afb42|0a9d0343-c1e4-4bb8-9eef-4a085a907fb1",
-          ""
-        ],
-        [
-          "hole_clearance|169700000|144095000|84158c5c-90ca-4ce0-a212-51c6620afb42|6d45a13d-4550-46c4-972d-481472636d3f",
-          ""
-        ],
-        [
-          "hole_clearance|175100000|144095000|888fabf2-294d-472a-a345-6901b71e89db|6a7d4136-0a00-4141-958d-97fc58c3a645",
-          ""
-        ],
-        [
-          "hole_clearance|175100000|144095000|888fabf2-294d-472a-a345-6901b71e89db|c7297e74-d200-4bb4-aa89-7cca05e8b1c5",
-          ""
-        ],
-        [
-          "hole_clearance|175300000|144095000|888fabf2-294d-472a-a345-6901b71e89db|d74bd847-9125-4165-a589-20a98b1014ae",
-          ""
-        ],
-        [
-          "hole_clearance|175300000|144095000|888fabf2-294d-472a-a345-6901b71e89db|f2478620-9e99-4db7-940d-bcec4fef62b9",
-          ""
-        ],
-        [
           "items_not_allowed|194499997|144237414|7deb427e-9bb1-46b6-9ea4-45fe2d354958|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -276,7 +244,7 @@
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -635,6 +603,12 @@
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
+      },
+      {
+        "name": "HV Net",
+        "pcb_color": "rgb(77, 255, 40)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
     "meta": {
@@ -642,7 +616,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "HV Net",
+        "pattern": "*380V"
+      },
+      {
+        "netclass": "Default",
+        "pattern": ""
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -767,6 +750,12 @@
       "fields_ordered": [
         {
           "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "Reference",
           "name": "Reference",
           "show": true
@@ -779,6 +768,12 @@
         },
         {
           "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": true,
           "label": "Value",
           "name": "Value",
           "show": true
@@ -787,12 +782,6 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Footprint",
-          "name": "Footprint",
           "show": true
         },
         {
@@ -835,12 +824,6 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
           "show": false
         },
         {
